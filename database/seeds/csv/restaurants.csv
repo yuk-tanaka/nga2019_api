@@ -1,0 +1,312 @@
+id,area_id,name,google_search_keyword,google_place_id,address,latitude,longitude,tel,web,twitter,facebook,tabelog,can_auto_update,is_closed
+1,4,日本酒とお食事 はちどり,はちどり 大阪,ChIJZag6FzThAGARmkN2U5ttAnk,大阪市都島区都島北通1-20-2,34.711398,135.529265,06-6929-8107,,,https://ja-jp.facebook.com/hachidori0525/,https://tabelog.com/osaka/A2701/A270304/27085709/,1,0
+2,4,洋風小皿食堂TAPA,TAPA 大阪,,大阪市都島区善源寺町2-3-28,34.710859,135.527135,06-6924-5328,,,https://ja-jp.facebook.com/YangFengXiaoMinShiTangtapa/,https://tabelog.com/osaka/A2701/A270304/27057596/,1,1
+3,4,立喰酒場 舫,,ChIJAQDZlzThAGARgicJGH5pA9c,大阪市都島区善源寺1-5-48 2F,34.709739,135.526304,06-7182-6387,,,https://ja-jp.facebook.com/tachiguisakabaMOYAI/,https://tabelog.com/osaka/A2701/A270304/27086803/,1,0
+4,4,和風バール『鳥羽屋』,,ChIJZ4k2fjPhAGARjJlWVgtBnGk,大阪市都島区都島北通1-10-21,34.709509,135.527452,06-7161-2598,,,https://ja-jp.facebook.com/tobaya.miyakojima/,https://tabelog.com/osaka/A2701/A270304/27105665/,1,0
+5,4,紀の国屋くっす～,,ChIJjTfkbjPhAGARKMcNWApKfPw,大阪市都島区都島本通3-22-17,34.708523,135.526774,06-6922-1776,,,,https://tabelog.com/osaka/A2701/A270304/27071238/,1,0
+6,4,ラ・マンミーナ,,ChIJ5y0HcjPhAGARly-YzLxCK14,大阪市都島区都島本通3-23-6,34.708512,135.526974,06-6922-1059,,,,https://tabelog.com/osaka/A2701/A270304/27004088/,1,0
+7,4,鮪魂 一将丸,一将丸,ChIJ-V8yQirhAGARTZRoTjbRg1w,大阪市都島区東野田町4-5-45ﾙｰﾄﾜﾝ京橋1F,34.701021,135.529779,06-6881-7774,,https://twitter.com/kazushomaru,https://ja-jp.facebook.com/damasii.maguro,https://tabelog.com/osaka/A2701/A270107/27043877/,1,0
+8,4,片町 弥ひろ,,ChIJGxG8YdbgAGARR5xd0g4-HGw,大阪市都島区片町2-6-8 エヴォク1F,34.695685,135.530888,06-6358-8840,,,https://ja-jp.facebook.com/katamachiyahiro/,https://tabelog.com/osaka/A2701/A270107/27091179/,1,0
+9,2,愛媛酒場 丸富,,ChIJ0x1Kk7vmAGARV7x5sH_Qgac,大阪市北区天神橋7-5-23渋谷ビル1F,34.712432,135.511845,06-6354-8102,,,,https://tabelog.com/osaka/A2701/A270103/27078052/,1,0
+10,2,群醸日和,,ChIJ_0_yPLnmAGARyDtQB8j7sx0,大阪市北区天神橋6-2-15 幸福ビル天六103,34.709828,135.512022,06-6351-2456,,,https://ja-jp.facebook.com/gunjyobiyori/,https://tabelog.com/osaka/A2701/A270103/27096382/,1,0
+11,2,ご馳走 ね音,,ChIJ0cbnvbjmAGARIRU3wUhmoXk,大阪市北区天神橋5-3-22 安田ビル 2F,34.707195,135.512058,06-6882-5512,,,https://ja-jp.facebook.com/gochisounene/,https://tabelog.com/osaka/A2701/A270103/27096416/,1,0
+12,2,焼とんya たゆたゆ天満店,たゆたゆ天満,ChIJC44nXMfmAGARw38OVz4cOJY,大阪市北区天神橋5-1-15,34.706667,135.512042,06-6354-8108,,,https://ja-jp.facebook.com/tayutayu.tenma/,https://tabelog.com/osaka/A2701/A270103/27090831/,1,0
+13,2,立ち呑み あずき色のマーカス,あずき色のマーカス,ChIJW7btRMfmAGARwe4DabgZ5vk,大阪市北区天神橋4-12-11-103,34.706206,135.51185,,,,https://ja-jp.facebook.com/azukiiro.marcus/,https://tabelog.com/osaka/A2701/A270103/27099481/,1,0
+14,1,お酒とおばんざい すいか,,ChIJl6xpRJjmAGAR7GUQ60fnPDA,大阪市北区本庄西2-12-3ｴﾑｽﾞ東梅田,34.71406,135.504811,06-6375-1709,,,https://www.facebook.com/suikahama/,https://tabelog.com/osaka/A2701/A270103/27102266/,1,0
+15,1,和 藤もと,,ChIJPRZJsebnAGARWJ95U7mfSMA,大阪市北区豊崎3-6-11 エイトビル1F,34.710783,135.499158,06-6131-9710,,,https://ja-jp.facebook.com/wafujimoto/,https://tabelog.com/osaka/A2701/A270101/27104028/,1,0
+16,1,日本酒食堂SO-KEN,,ChIJ__9IRITmAGARm7wSFnyCLBg,大阪市北区中津3-5-5,34.710369,135.493738,06-4256-8243,,,https://ja-jp.facebook.com/nihonsyusyokudousoken/,https://tabelog.com/osaka/A2701/A270101/27085474/,1,0
+17,2,ソラマメ食堂,,ChIJ6f0nb5-ejl8R_yBq9dc9QSw,大阪市北区西天満5-11-3 河合ビル1F,34.698901,135.507425,06-6755-4460,,,https://ja-jp.facebook.com/soramameshokudou/,https://tabelog.com/osaka/A2701/A270103/27092476/,1,0
+18,1,北龍,,ChIJizGHcOzmAGARIAiK2ptSTws,大阪市北区曽根崎2-5-37,34.699159,135.50119,06-6311-5212,,,https://ja-jp.facebook.com/hokryu/,https://tabelog.com/osaka/A2701/A270101/27001901/,1,0
+19,1,居酒屋かんき,,ChIJMfISTxXnAGARkyUMLHHkHmw,大阪市北区梅田1-1-3 大阪駅前第3ビルB1Fー54,34.698779,135.499416,06-4798-7225,,https://twitter.com/mugihey,https://ja-jp.facebook.com/izakaya.kanki/,https://tabelog.com/osaka/A2701/A270101/27001375/,1,0
+20,1,創作居酒屋なごみ,,,大阪市北区梅田1-2-2 大阪駅前第2ビルB1-43-1,34.698788,135.497962,050-5785-2965,,,,https://tabelog.com/osaka/A2701/A270101/27102436/,1,1
+21,3,炭と日本酒 仁 福島店,,ChIJS_cu2WHmAGAR5I9yFGaBj-s,大阪市福島区福島6-3-8,34.698606,135.487314,06-6452-3603,,,,https://tabelog.com/osaka/A2701/A270108/27054826/,1,0
+22,3,ジャックとマチルダ,,ChIJdR4SZMPnAGARQgn61s6mJoI,大阪市福島区福島5-6-8,34.696368,135.487408,,,,https://www.facebook.com/JackandMatilda/,https://tabelog.com/osaka/A2701/A270108/27092474/,1,0
+23,3,和酒 吟蔵,,ChIJByPDVvXmAGARiiVMzqfAzdM,大阪市福島区福島1-6-14,34.695407,135.487747,06-6457-6630,,,https://ja-jp.facebook.com/washuginzo/,https://tabelog.com/osaka/A2701/A270108/27054598/,1,0
+24,3,菜米炭,,ChIJG6sqN17mAGARd68Ela3Ebcs,大阪市福島区福島3-10-2,34.693532,135.484689,06-6136-4585,,https://twitter.com/sarada_srd,,https://tabelog.com/osaka/A2701/A270108/27099135/,1,0
+25,3,日本酒弘大,,ChIJ_89WFl7mAGAR75wGXazOS04,大阪市福島区福島4-4-39,34.693243,135.483833,06-6448-1155,,https://twitter.com/nihonsyuhiroshi,,https://tabelog.com/osaka/A2701/A270108/27082723/,1,0
+26,5,高麗橋 桜花,,ChIJrcI9FuXmAGAR1ZlzUh-O3Kw,大阪市中央区高麗橋4-5-13淀屋橋ｻﾃﾗｲﾄﾋﾞﾙ1F,34.690222,135.498146,06-6201-0223,,https://twitter.com/kouraibashiouka,https://www.facebook.com/kouraibashiouka/,https://tabelog.com/osaka/A2701/A270102/27049842/,1,0
+27,5,寧,,ChIJxUXPVmupQjQRtBB6oj-S5qI,大阪市中央区石町2-1-7天満橋ｸﾞﾘｰﾝｺｰﾎﾟﾗｽ001,34.689464,135.514368,06-7174-3058,,,,https://tabelog.com/osaka/A2701/A270104/27061316/,1,0
+28,5,和魂ほむら,,ChIJ8Rxz1y_nAGARv24DFLwl-94,大阪市中央区谷町3-2-14,34.682911,135.517603,06-6941-3322,,https://twitter.com/homura96,,https://tabelog.com/osaka/A2701/A270104/27014640/,1,0
+29,5,蔵朱,,ChIJB-gsHCTnAGARblxdPdrtoxE,大阪市中央区南新町2-3-1ｽﾀｰｸｲｰﾝﾋﾞﾙ2F,34.684508,135.511912,06-6944-5377,,,,https://tabelog.com/osaka/A2701/A270104/27010828/,1,0
+30,5,楽酒楽肴 越冬,,ChIJHWqxCiTnAGARZhniIdM5Dg0,大阪市中央区本町橋7-13 松井ビル1F,34.68319,135.511104,06-6943-8161,,https://twitter.com/tokoettoh,https://ja-jp.facebook.com/ettoh.jp/,https://tabelog.com/osaka/A2701/A270106/27061869/,1,0
+31,5,ハナレノミ カジノバ,カジノバ,ChIJ7wvS0OHmAGARmipXw6rMqPY,大阪市中央区備後町3-1-2 日宝ｱﾄﾗｽﾋﾞﾙ1F,34.685216,135.502193,,,,https://ja-jp.facebook.com/cajinova0529/,https://tabelog.com/osaka/A2701/A270106/27098973/,1,0
+32,5,味酒かむなび,かむなび,ChIJyScs1jbnAGARUQeqp0KsW2k,大阪市中央区内久宝寺町2-7-12,34.678223,135.51815,06-6765-0930,,,https://ja-jp.facebook.com/umazakekamunabi/,https://tabelog.com/osaka/A2701/A270204/27013958/,1,0
+33,5,空堀 きぬ川,饂飩とお酒 からほり きぬ川,ChIJhzfAGjjnAGAR4zceuptz5Pk,大阪市中央区谷町7-6-35,34.673468,135.515259,06-6761-7744,,https://twitter.com/mousan1,,https://tabelog.com/osaka/A2701/A270204/27061119/,1,0
+34,5,心斎橋日本酒酒場キャンプ,,ChIJuW1sFhvnAGARMeeQS4N8wX8,大阪市中央区南船場4-10-16セイゴビル1F,34.676898,135.498177,06-7181-3855,,,https://ja-jp.facebook.com/sakabacamp2018/,https://tabelog.com/osaka/A2701/A270201/27100369/,1,0
+35,5,日本酒うなぎだに,うなぎだに,ChIJ4XgIPBfnAGARcBHU2RPzavw,大阪市中央区心斎橋筋1-3-28,34.67399,135.501935,06-4963-2547,,,https://ja-jp.facebook.com/ninonsyuunagidaniurananba/,https://tabelog.com/osaka/A2701/A270201/27085143/,1,0
+36,5,和っか 心斎橋,,ChIJS66-KBfnAGARmcYETVQrDHU,大阪市中央区心斎橋筋1-3-10,34.673721,135.502157,06-6241-7780,,https://twitter.com/new_wakka,https://ja-jp.facebook.com/sinsaibasiwakka,https://tabelog.com/osaka/A2701/A270201/27085403/,1,0
+37,5,にほん酒や一路,,ChIJAwBEQBTnAGAR8k-aoYhQW0U,大阪市中央区東心斎橋2-7-12 ﾎﾜｲﾄﾋﾞﾙ3F,34.670413,135.502896,,,,https://ja-jp.facebook.com/ichiro.sake/,https://tabelog.com/osaka/A2701/A270201/27089755/,1,0
+38,5,まえだ家,,ChIJ0bgC6m7nAGARbhrCZ7dmjPs,大阪市中央区東心斎橋1-12-19 ｴｲﾄﾋﾞﾙﾁﾞﾝｸﾞB1F,34.674608,135.503706,06-4256-4200,,https://twitter.com/maedaya_0701,https://ja-jp.facebook.com/maedaya.megane/,https://tabelog.com/osaka/A2701/A270201/27099032/,1,0
+39,5,うろこ屋,,ChIJ5c7v6BPjAGAR4kWZRNmWpyA,大阪市中央区東心斎橋2-6-13,34.670463,135.503716,06-4708-8258,,https://twitter.com/minamiurokoyama,https://ja-jp.facebook.com/UrokoYA/,https://tabelog.com/osaka/A2701/A270202/27104173/,1,0
+40,6,大阪焼トンセンター,,ChIJg_gYVGrnAGARBAqeobKN1ak,大阪市中央区難波千日前3-19,34.665321,135.504263,06-4396-8109,,,,https://tabelog.com/osaka/A2701/A270202/27013558/,1,0
+41,6,立呑みQ,,ChIJ_bNxuWvnAGARg_gApymmtgw,大阪市中央区難波千日前13-4,34.664249,135.503199,06-6633-8896,,,,https://tabelog.com/osaka/A2701/A270202/27057889/,1,0
+42,6,日本酒酒場てんせん,,,大阪市中央区難波千日前14-18,34.663763,135.503358,06-6641-6566,,,https://ja-jp.facebook.com/nihonsyusakabatensen/,https://tabelog.com/osaka/A2701/A270202/27092599/,1,1
+43,6,おまめさん,,ChIJyYN_2FHnAGAR7Il2G5Qg2-U,大阪市天王寺区上本町6-3-31 ﾊｲﾊｲﾀｳﾝ 1F,34.664477,135.51857,06-6776-7898,,,https://www.facebook.com/hihitownomame/,https://tabelog.com/osaka/A2701/A270205/27095670/,1,0
+44,7,お酒といろいろ バンコ,,ChIJQVaSprHgAGARQc0JN1Psb9Q,大阪市天王寺区玉造元町4-8 2F,34.673426,135.531505,090-8366-3403,,https://twitter.com/uebanbanco,,https://tabelog.com/osaka/A2701/A270204/27075285/,1,0
+45,7,穂゜ん亭,,ChIJN2w3IK7gAGAREHCNKUo1Hog,大阪市天王寺区玉造元町12－11,34.671188,135.530677,06-6768-9858,https://ponte1.jimdo.com/,,,https://tabelog.com/osaka/A2701/A270204/27073932/,1,0
+46,7,酒toCurryアーチル,,ChIJKev32q_gAGARajP_WFlcug0,大阪市東成区東小橋1-18-31,34.671696,135.532969,070-2295-0260,,,https://ja-jp.facebook.com/saketocurryarchillt/,https://tabelog.com/osaka/A2701/A270204/27093557/,1,0
+47,7,炭火焼鳥と蒟蒻の店 鶫屋,,ChIJB7mtjqjgAGAR66WJy0ojIBI,大阪市東成区東小橋3-20-31,34.666097,135.533813,06-4306-3299,,https://twitter.com/tugumiya08,https://ja-jp.facebook.com/turuhashitugumiya/,https://tabelog.com/osaka/A2701/A270205/27019516/,1,0
+48,7,大阪まんぷく堂,,ChIJn-fNZqDgAGAReVwhdI15WS8,大阪市東成区大今里西3-4-14,34.668272,135.542012,06-6972-1199,,,https://ja-jp.facebook.com/manpukudou/,https://tabelog.com/osaka/A2701/A270306/27017087/,1,0
+49,6,だいどこやまなか,,ChIJx_NGeW_nAGAR3p47XXd0CBY,大阪市浪速区敷津東2-2-1なんば木津市場場内,34.657042,135.499139,06-6636-3659,,,https://ja-jp.facebook.com/daidokoyamanaka/,https://tabelog.com/osaka/A2701/A270206/27075946/,1,0
+50,6,あなぐま亭,,ChIJUx6wPmHnAGAR1dxNCCxw23U,大阪市浪速区恵美須西2-12-4恵美須ｺｰﾎﾟ新館1F,34.65303,135.503061,06-6641-5969,,https://twitter.com/anagumanuma,,https://tabelog.com/osaka/A2701/A270206/27076233/,1,0
+51,9,日本料理 輪,,ChIJSVM9QuKOAGAR6PPWcd6YHVA,兵庫県神戸市中央区下山手通3-12-1,34.69339,135.188156,078-331-7657,,,https://ja-jp.facebook.com/motomachi.rin/,https://tabelog.com/hyogo/A2801/A280101/28000941/,1,0
+52,9,和料理 みのり,,ChIJWasyhh2PAGARfojxN2Vcff8,兵庫県神戸市中央区下山手通4-10-20 2F,34.693007,135.186464,078-221-1127,,,https://www.facebook.com/pages/biz/japanese_restaurant-%E5%85%B5%E5%BA%AB%E7%9C%8C-%E7%A5%9E%E6%88%B8%E5%B8%82/%E5%92%8C%E6%96%99%E7%90%86-%E3%81%BF%E3%81%AE%E3%82%8A-444278215724359/,https://tabelog.com/hyogo/A2801/A280102/28042399/,1,0
+53,9,立ち呑みさしみ屋 駅前 元町北店,,ChIJkwfLtuKOAGARt-0IqTyhhLk,兵庫県神戸市中央区北長狭通4-2-ことぶきビル1F,34.690557,135.187775,078-392-0087,,,https://ja-jp.facebook.com/EKIMAE.motokita/,https://tabelog.com/hyogo/A2801/A280102/28044156/,1,0
+54,9,猿人 エンジン,,ChIJI5d5AQOPAGARfGxtGQRReX8,兵庫県神戸市中央区元町通4-1-1王ビル2F,34.686658,135.184387,090-2045-5904,http://kobeenjine.com/,,https://ja-jp.facebook.com/kobeenjine/,https://tabelog.com/hyogo/A2801/A280102/28049283/,1,0
+55,9,酒処 粋,,ChIJXXSA5H2NGGARRElLg58I1aM,兵庫県神戸市中央区海岸通4-4-8,34.685747,135.184604,078-360-1320,,,,https://tabelog.com/hyogo/A2801/A280102/28048078/,1,0
+56,9,キッチンつみき,,ChIJAQAQ1hyPAGARU3oUoMKuZdY,兵庫県神戸市中央区北長狭通5-4-7,34.689002,135.184504,078-331-9393,http://kitchentsumiki.jp/,,,https://tabelog.com/hyogo/A2801/A280102/28045897/,1,0
+57,9,花隈佐々木,,ChIJa9N7pxyPAGARlN8hbW6Gui8,兵庫県神戸市中央区花隈町5-21花隈ダイヤハイツ,34.688335,135.182234,078-347-7778,http://hanakumasasaki.com/,,,https://tabelog.com/hyogo/A2801/A280102/28040555/,1,0
+58,8,神戸和酒倶楽部ちょこ,,ChIJby_TXOGOAGARMtB1QtIP78g,兵庫県神戸市中央区中山手通1-7-21,34.694885,135.192428,078-391-7877,,,,https://tabelog.com/hyogo/A2801/A280101/28047054/,1,0
+59,8,旬彩割烹 姫膳,,,兵庫県神戸市中央区北長狭通2-5-1,34.691866,135.190211,078-391-5585,,,,https://tabelog.com/hyogo/A2801/A280101/28033175/,1,0
+60,8,亀遊,,ChIJp-dwoUdWUTURpFDVRcS9tXM,兵庫県神戸市中央区中山手通1-7-12,34.695404,135.192133,078-331-5575,,,,https://tabelog.com/hyogo/A2801/A280101/28045073/,1,0
+61,8,ロゼパピヨン,,ChIJUWcy9OOOAGARjGT8TwZ9JtI,兵庫県神戸市中央区中山手通1-7-20,34.695032,135.192375,078-333-1226,,,https://www.facebook.com/KobeRosePapillon/,https://tabelog.com/hyogo/A2801/A280101/28002175/,1,0
+62,8,味範家,,ChIJAQAQc-OOAGAR_RgLTI_RZXY,兵庫県神戸市中央区下山手通2-11-1 KSMビル304,34.693332,135.19052,050-5595-1805,,,https://www.facebook.com/minoriya304/,https://tabelog.com/hyogo/A2801/A280101/28050979/,1,0
+63,8,料理と地酒 献 -けん-,,ChIJHY7cw-aOAGARJWiHyG5Wj3g,兵庫県神戸市中央区中山手通1-20,34.698279,135.192392,078-230-3062,,,https://www.facebook.com/ken0819.kobe/,https://tabelog.com/hyogo/A2801/A280102/28047157/,1,0
+64,8,Kikuichi,,ChIJwxZqspMIAWARQnlq0I45qkE,兵庫県神戸市中央区下山手通2-12-6,34.693229,135.1895,078-955-2666,,,,https://tabelog.com/hyogo/A2801/A280101/28049678/,1,0
+65,8,ぼでが 日本酒とおばんざい,,NULLChIJIcEEYOSOAGARAEIQfNUaEck,兵庫県神戸市中央区中山手通1-8-1,34.694732,135.192708,078-322-3665,http://hitosakeichie.jimdo.com,,http://www.facebook.com/bodega2012,https://tabelog.com/hyogo/A2801/A280101/28035609/,1,0
+66,8,七海　NANAUMI,,ChIJN6SituOOAGARtYJ6izAcdlE,兵庫県神戸市中央区下山手通2-16-8,34.694143,135.189556,078-331-3515,,,,https://tabelog.com/hyogo/A2801/A280101/28031946/,1,0
+67,8,さくらバー,,ChIJc9RId4c5AWARMDe7HvpXeZM,兵庫県神戸市中央区琴ノ緒町3-3-17,34.697068,135.196,078-252-7234,,,,https://tabelog.com/hyogo/A2801/A280101/28050018/,1,0
+68,10,銘酒佳肴さなみ,,,兵庫県神戸市灘区稗原町2-3-22,34.713808,135.235452,078-779-9179,,,,https://tabelog.com/hyogo/A2801/A280108/28001924/,0,0
+69,10,鶏・串焼き　といろ,,ChIJU7Ei7jqMAGARsdc,兵庫県神戸市灘区稗原町2-3-22,34.713808,135.235452,078-862-5316,,,,https://tabelog.com/hyogo/A2801/A280108/28044406/,1,0
+70,10,料理やDoI,,ChIJ1wfeXDqMAGARppav4Ad_hcU,兵庫県神戸市灘区稗原町1-3-21,34.71415,135.236585,078-821-6899,,,https://www.facebook.com/%E9%B6%8F%E4%B8%B2%E7%84%BC%E3%81%8D-%E3%81%A8%E3%81%84%E3%82%8D-612840808737552/,https://tabelog.com/hyogo/A2801/A280108/28022061/,1,0
+71,10,小枝鶏　さえどり,,ChIJoQPAzDmMAGAR8zDRO0ieFeY,兵庫県神戸市灘区深田町2-1-12,34.714858,135.240734,078-779-1970,,,,,0,0
+72,10,Chinese-kitchen博,,ChIJG0aZuDmMAGARkZpDJlUiam0,兵庫県神戸市灘区深田町3-5-2ルミエール六甲1F,34.715594,135.240029,078-811-3337,,https://twitter.com/chinesehiro,,https://tabelog.com/hyogo/A2801/A280108/28033666/,1,0
+73,14,チドリアシ,,ChIJ_Uaf3ioGAWARM08nBO1mYtw,京都府京都市中京区堀川御池西入ル大文字町233-6,35.010766,135.750008,075-841-8881,,,https://www.facebook.com/kyoto.chidoriashi,https://tabelog.com/kyoto/A2601/A260203/26005483/,1,0
+74,14,居酒屋 あおぎ屋,,ChIJTwafGLUHAWARkw8RxgXRfoQ,京都府京都市右京区西院西淳和院町22,35.005303,135.730769,050-5593-7612,,,,https://tabelog.com/kyoto/A2601/A260401/26028827/,1,0
+75,14,マエダダイナスティー西入ル,,ChIJzThyqEoGAWARgffLJgOIVjw,京都府京都市中京区壬生西土居ノ内町19,35.003425,135.73306,075-314-6011,,,,https://tabelog.com/kyoto/A2601/A260401/26018418/,1,0
+76,14,さかぶくろ,,ChIJdbODGzUGAWARlrZU7DSgzws,京都府京都市中京区壬生仙念町10-5,35.000089,135.735196,075-354-6676,,,,https://tabelog.com/kyoto/A2601/A260401/26016972/,1,0
+77,14,提灯食堂,,ChIJbbFl-DUGAWARgf8gl8YhvLk,京都府京都市中京区壬生西檜町11-3,35.00022,135.733244,075-203-4084,,,,https://tabelog.com/kyoto/A2601/A260401/26026248/,1,0
+78,14,炭のクチ,,ChIJaU2ZoEsGAWARWbXw9v28W2o,京都府京都市右京区西院矢掛町14,34.999653,135.729802,075-874-4784,,https://twitter.com/suminokuchi,,,1,0
+79,14,酒肴 かおりぐさ,,,京都府京都市中京区壬生東桧町30,35.013058,135.736221,070-5433-4489,,,https://ja-jp.facebook.com/%E9%85%92%E8%82%B4-%E3%81%8B%E3%81%8A%E3%82%8A%E3%81%90%E3%81%95-311752839021726/,,0,0
+80,13,和酒 美ずき,,ChIJVVU5i4QIAWAR_RVdgqnEGF4,京都府京都市中京区榎木町91-2,35.012852,135.768265,075-241-4007,,,https://ja-jp.facebook.com/pages/category/Japanese-Restaurant/%E5%92%8C%E9%85%92-%E7%BE%8E%E3%81%9A%E3%81%8D-1515029532120400/,https://tabelog.com/kyoto/A2601/A260201/26029889/,1,0
+81,13,うまいもんや いっしょう,,ChIJ6e5ygo4IAWAR6Z9KT0RCwnU,京都府京都市中京区山本町427,35.012644,135.766276,075-231-1711,,,https://ja-jp.facebook.com/pages/category/Company/%E3%81%86%E3%81%BE%E3%81%84%E3%82%82%E3%82%93%E3%82%84-%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%86-446798702026458/,https://tabelog.com/kyoto/A2601/A260201/26023856/,1,0
+82,13,蕎麦と肴 周知,,ChIJ2b4ClM0HAWARNxPpBdT_vQ4,京都府京都市中京区二条通富野小路東入ル尾張町230-2,35.013139,135.76589,075-744-1483,,,,https://tabelog.com/kyoto/A2601/A260202/26024624/,1,0
+83,11,酒亭 道や,,ChIJlVcL_YYIAWARjwmg8vSoQno,京都府京都市中京区両替町通二条下る金吹町478,35.009747,135.758535,050-5594-2065,,https://twitter.com/shutei_michiya,https://www.facebook.com/shutei.michiya/,https://tabelog.com/kyoto/A2601/A260202/26029345/,1,0
+84,11,おばんざいと鶏 京は菜,,ChIJn4G_B4QIAWARzJ8YV_0RIpY,京都府京都市中京区町頭町89,35.006992,135.756911,075-251-6990,,,,https://tabelog.com/kyoto/A2601/A260202/26028544/,1,0
+85,11,旬・炭火焼 んまい,,,京都府京都市中京区烏丸通六角東入ル堂之前町231,35.004192,135.760191,075-255-1406,http://www.unmai.jp/,,,https://tabelog.com/kyoto/A2601/A260202/26000057/,0,0
+86,11,益や酒店,,ChIJbxA4KJQIAWARLR7BzeEoDU0,京都府京都市中京区御幸町通り四条上ル大日町426,35.006331,135.766438,075-256-0221,https://masuya-saketen.com/,,,https://tabelog.com/kyoto/A2601/A260201/26025459/,1,0
+87,11,亀山学,,ChIJxczQI2_YUzURsxdyXMiuyWs,京都府京都市中京区蛸薬師室町西入る姥柳町192,35.004267,135.757111,075-211-6882,https://www.facebook.com/KameyamaManabu2016/,,,https://tabelog.com/kyoto/A2601/A260202/26029063/,1,0
+88,11,酒とお料理 つぐ,,ChIJCyoTepsIAWAR5qzn3TEsOSg,京都府京都市中京区室町新町の間観音堂町468,35.004748,135.757491,075-231-8979,https://tsugu.owst.jp/,,,https://tabelog.com/kyoto/A2601/A260202/26020766/,1,0
+89,11,富小路 鱗,,ChIJsQVtyJYIAWARw5HVRxWU8qU,京都府京都市中京区富小路通錦小路下る西大文字町602,35.004153,135.765049,075-229-1616,http://tominokoji-uroko.jp/,,https://ja-jp.facebook.com/tominokoji.uroko/,https://tabelog.com/kyoto/A2601/A260202/26017822/,1,0
+90,12,薄伽梵ハヂメ,,ChIJ18GCs5UIAWARbDS7TWllXdU,京都府京都市中京区中之町565-23,35.004739,135.767849,075-231-1774,,,,https://tabelog.com/kyoto/A2601/A260201/26022644/,1,0
+91,12,焼鳥 おこし,,ChIJ5bwtUpQIAWAReD3oS7HEpUA,京都府京都市中京区中之町577-12,35.008328,135.768237,075-275-1317,,,,https://tabelog.com/kyoto/A2601/A260201/26028180/,1,0
+92,12,酒蔵,,Eijml6XmnKzjgIHlhbXluqvnnIzopb_lrq7luIIg6YWS6JS16YCa44KKIi4qLAoUChIJm4T-m-3yAGARwKArrN8c0igSFAoSCYvKbeWo9ABgEXBaXXJ4LYzB,京都府京都市中京区木屋町三条下ル石屋町122-4,35.007428,135.770957,050-5593-8803,http://bar-shukura.com/,,https://www.facebook.com/JapaneseBarsyukura/,https://tabelog.com/kyoto/A2601/A260201/26022286/,1,0
+93,12,酒バー 月之舟入,,ChIJv0-S1LEJAWAR6lhrRA0SWGs,京都府京都市中京区木屋町三条下ル材木町184,35.007597,135.770734,080-1477-7828,,,https://ja-jp.facebook.com/tsukinofunairi/,https://tabelog.com/kyoto/A2601/A260301/26029621/,1,0
+94,12,ヘルシー野菜と地酒 先斗町佳酔,,ChIJKQUNgYMIAWARcY1vyo7kYNU,京都府京都市中京区先斗町通三条下ル若松町137-3,35.00642,135.771173,075-255-9933,https://kasui.owst.jp/,,,https://tabelog.com/kyoto/A2601/A260201/26028188/,1,0
+95,12,京町家おばんざい こはく,,ChIJmbyIv5QIAWARDSUj2-xnwW4,京都府京都市中京区南車屋町282,35.000681,135.769979,075-252-6555,http://kohaku-kyoto.jp/,,https://ja-jp.facebook.com/%E4%BA%AC%E7%94%BA%E5%AE%B6%E3%81%8A%E3%81%B0%E3%82%93%E3%81%96%E3%81%84-%E3%81%93%E3%81%AF%E3%81%8F-292098814595776/,https://tabelog.com/kyoto/A2601/A260201/26030286/,1,0
+96,12,京のむすびめ,,ChIJs0AKp78IAWARGbsmf5ujsLI,京都府京都市下京区木屋町通仏光寺下ル和泉屋町160,34.999379,135.769432,075-371-0055,http://kyo-no-musubime.com/ja/,,,https://tabelog.com/kyoto/A2601/A260201/26025931/,1,0
+97,12,大衆酒場 こうじゑん,,ChIJYeI7aeUJAWARchqvf0buFsk,京都府京都市下京区幸竹町382-14,34.998943,135.767338,075-344-4600,,,,,1,0
+98,12,鉄板とお酒 宗や,,ChIJt_vphL4IAWARzAn-4eDo7uM,京都府京都市下京区松原通寺町西入石不動之町700,34.997221,135.755068,075-204-5276,,,,https://tabelog.com/kyoto/A2601/A260201/26029708/,1,0
+99,15,JAPANESE SAKE BAR もろはく,,,北海道札幌市中央区南3西6インフィニ桂和22ビル6F,43.05595,141.349829,011-232-0689,http://morohaku.jp/,,,https://tabelog.com/hokkaido/A0101/A010103/1000589/,1,0
+100,15,日本酒BAR にゃごりん,,,北海道札幌市中央区南4西3第2グリーンビル6F,43.055885,141.354866,011-513-5299,,https://twitter.com/nyagorin1,https://www.facebook.com/nyagorin.bar,https://tabelog.com/hokkaido/A0101/A010103/1040079/,1,0
+101,15,憩いの酒 蔵美庭gravity,,,北海道札幌市中央区南5西4南興ビル9F,43.054623,141.353377,011-252-7877,https://ameblo.jp/kenji-518/entry-12299422165.html,,https://ja-jp.facebook.com/Ikoinosakegravity/,https://tabelog.com/hokkaido/A0101/A010103/1057155/,1,0
+102,15,酒肴・地酒酒場sima くうま,,,北海道札幌市中央区南5西3-3中銀三番館ビル2F,43.054107,141.354385,011-211-4387,,,,https://tabelog.com/hokkaido/A0101/A010103/1031759/,1,0
+103,15,ASSE,,,北海道札幌市中央区南2東1-1-8M's EAST2,43.059715,141.35771,011-211-4565,,,https://ja-jp.facebook.com/pages/category/Pizza-Place/%E3%82%A2%E3%83%83%E3%82%BB-ASSE-653130101488295/,https://tabelog.com/hokkaido/A0101/A010102/1049523/,1,0
+104,15,和食屋 隠口,,,北海道札幌市中央区南3西3-4 中屋ビル3F,43.056653,141.354051,011-242-3402,http://www.komoriku.com/,,,https://tabelog.com/hokkaido/A0101/A010103/1000432/,1,0
+105,15,酒と肴 類,,,北海道札幌市中央区南3西7-7-2,43.056099,141.34691,011-839-0224,,,https://ja-jp.facebook.com/saketosakanaRUI/,https://tabelog.com/hokkaido/A0101/A010103/1054020/,1,0
+106,15,出汁おしみ,,,北海道札幌市中央区南3西4-9 カミヤビル3F,43.056049,141.352002,011-215-1771,https://dashioshimi.owst.jp/,,https://www.facebook.com/%E9%AD%9A%E8%8F%9C%E3%81%A8%E7%B4%94%E7%B1%B3%E9%85%92%E3%81%AE%E3%81%8A%E5%BA%97-%E5%87%BA%E6%B1%81%E3%81%8A%E3%81%97%E3%81%BF-%E3%81%A4%E3%81%8F%E3%81%97-123123641626031/,https://tabelog.com/hokkaido/A0101/A010103/1056761/,1,0
+107,15,和食や円,,,北海道札幌市中央区南3西3プレイタウン藤井ビル3F,43.056571,141.354488,011-211-4837,,,,https://tabelog.com/hokkaido/A0101/A010103/1027917/,1,0
+108,15,活食・隠れ酒蔵かけはし総本店,,,北海道札幌市中央区南4西2 第31桂和ビル4F,43.055331,141.355183,011-552-9984,http://www.kakehashi.in/,,,https://tabelog.com/hokkaido/A0101/A010103/1003416/,1,0
+109,15,焼鳥酒房 直どり,,,北海道札幌市中央区南4西5第一秀高ビル1F,43.055708,141.35113,011-233-3133,,,https://ja-jp.facebook.com/naorodi/,https://tabelog.com/hokkaido/A0101/A010102/1042912/,1,0
+110,15,焼肉酒房 水芭蕉,,,北海道札幌市中央区南5西5美松タワービル1F,43.054269,141.351666,011-520-3929,https://mizubasyo.owst.jp/,,,https://tabelog.com/hokkaido/A0101/A010103/1053236/,1,0
+111,15,関 蕎麦とわいん,,,北海道札幌市中央区南4西5第4藤井ビル4F,43.05561,141.350372,011-252-7612,,,,https://tabelog.com/hokkaido/A0101/A010103/1042043/,1,0
+112,15,かもし家 淳吟,,,北海道札幌市北区中央区南5西6-9-4,43.0544,141.350139,,,,,,1,0
+113,15,ぐい呑みのいしはら,,,北海道札幌市中央区大通西5-8昭和ビルB1F,43.059624,141.349595,011-233-0008,http://ishi-hara.jp/,,,https://tabelog.com/hokkaido/A0101/A010102/1044297/,1,0
+114,15,裏酒商たかの,,,北海道札幌市中央区北1西3-3敷島北1条ビルB1F,43.062598,141.351962,011-272-0230,,,,https://tabelog.com/hokkaido/A0101/A010102/1050819/,1,0
+115,15,純米酒専門YATA 札幌駅前店,,,北海道札幌市中央区北4西5アスティ45ビル1F,43.066216,141.347968,011-211-6882,https://junmaishu.net/sakebar/sapporoekimae/,,https://www.facebook.com/yatasty/,https://tabelog.com/hokkaido/A0101/A010101/1057420/,1,0
+116,15,活食・隠れ酒蔵かけはし北2条店,,,北海道札幌市中央区北2西2マルホビルB1F,43.064465,141.353651,011-222-9984,http://www.kakehashi.in/,,,https://tabelog.com/hokkaido/A0101/A010101/1044762/,1,0
+117,16,朱蔵,,,北海道札幌市北区北24西4-4-20石原ビル1F,43.092051,141.343506,050-5571-7567,,,,https://tabelog.com/hokkaido/A0101/A010201/1048335/,1,0
+118,16,串焼き か楽,,,北海道札幌市北区北22西4-2-21,43.08849,141.343902,011-776-7984,http://www.ka-raku.com/,,,https://tabelog.com/hokkaido/A0101/A010201/1048397/,1,0
+119,17,居酒屋 家風卯,,,北海道札幌市白石区菊水3-1-7-7,43.059062,141.371918,011-817-4820,,,,https://tabelog.com/hokkaido/A0101/A010301/1005751/,1,0
+120,17,バル ハルヤ,,,北海道札幌市白石区菊水3-3-2-15,43.056411,141.375462,011ｰ867-0397,https://profile.ameba.jp/ameba/bar-haruya,,https://www.facebook.com/%E3%83%90%E3%83%AB-%E3%83%8F%E3%83%AB%E3%83%A4-bar-haruya-269222519806856/,https://tabelog.com/hokkaido/A0101/A010301/1036022/,1,0
+121,17,串焼き処 串さん,,,北海道札幌市菊水3-3-2-7,43.056858,141.375232,011-822-6731,,,,https://tabelog.com/hokkaido/A0101/A010301/1027243/,1,0
+122,18,おでん酒場Occhi,,,北海道札幌市豊平区平岸2-8-2-6,43.034491,141.367646,050-7577-0617,,,https://www.facebook.com/hiragishioden,https://tabelog.com/hokkaido/A0101/A010303/1050677/,1,0
+123,18,味処 高雄,,,北海道札幌市豊平区平岸1-7-3-6,43.035283,141.365441,011-833-0063,,,,https://tabelog.com/hokkaido/A0101/A010303/1003760/,1,0
+124,19,おでん こうぞう,,,宮城県仙台市青葉区一番町1丁目11−14ダイワビル,38.256613,140.874086,022-263-7719,,,,https://tabelog.com/miyagi/A0401/A040101/4016208/,1,0
+125,19,酒趣,,,宮城県仙台市青葉区一番町2丁目3-37,38.25904,140.873114,022-211-8868,,,,https://tabelog.com/miyagi/A0401/A040101/4016435/,1,0
+126,19,貝と魚と炭びシェルまる,,,宮城県仙台市青葉区一番町2-5-32,38.259429,140.87205,022-796-9960,https://www.shellmaru.com/73957/,,https://b-m.facebook.com/shell.maru/,https://tabelog.com/miyagi/A0401/A040101/4018639/,1,0
+127,19,食・酒・笑 にこらす,,ChIJty60Qkcoil8RUhQgTua3uW4,宮城県仙台市青葉区大手町7番20号,38.258482,140.861584,022-211-8226,http://nikoras20110123.da-te.jp/,,https://ja-jp.facebook.com/pages/category/Bar/%E9%A3%9F%E9%85%92%E7%AC%91-%E3%81%AB%E3%81%93%E3%82%89%E3%81%99-215325145266233/,https://tabelog.com/miyagi/A0401/A040101/4011238/,1,0
+128,19,和醸良酒 ○たけ,,,宮城県仙台市青葉区大町2-4-1,38.259598,140.866181,022-266-5541,http://www.sake-marutake.com/,,,https://tabelog.com/miyagi/A0401/A040101/4008245/,1,0
+129,19,にほんしゅ屋 nico シマウマ酒店,,,宮城県仙台市青葉区一番町4-1-16,38.263482,140.872038,022-265-2188,http://www.s-faction.com/?shop=shimauma,,https://ja-jp.facebook.com/pages/category/Restaurant/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%97%E3%82%85%E5%B1%8B-%E3%82%B7%E3%83%9E%E3%82%A6%E3%83%9E%E9%85%92%E5%BA%97-nico-787496974690649/,https://tabelog.com/miyagi/A0401/A040101/4016831/,1,0
+130,19,肴処やおよろず,,,宮城県仙台市青葉区一番町4丁目1-15,38.263348,140.872197,022-263-7667,https://construct-morment.com/yaoyorozu/,,,https://tabelog.com/miyagi/A0401/A040101/4011893/,1,0
+131,19,酒炭肴 さゝ木,,,宮城県仙台市青葉区国分町2丁目1-13,38.263093,140.870072,022-398-8173,,,https://ja-jp.facebook.com/pages/category/Restaurant/%E9%85%92%E7%82%AD%E8%82%B4-%E3%81%95%E3%82%9D%E6%9C%A8-487827054758938/,https://tabelog.com/miyagi/A0401/A040101/4017956/,1,0
+132,19,酒肆 番,,,宮城県仙台市青葉区本町2丁目15-16 UENOビル2F,38.264504,140.872966,022-266-0838,,,,https://tabelog.com/miyagi/A0401/A040101/4018692/,1,0
+133,19,George,,,宮城県仙台市宮城野区榴岡4丁目4-1,38.258733,140.886882,022-299-5171,,,,https://tabelog.com/miyagi/A0401/A040102/4020266/,1,0
+134,19,日本酒・鉄板料理 大石屋,,,宮城県仙台市宮城野区名掛丁206-19,38.262366,140.885801,022-290-8939,,,https://www.facebook.com/ooishiya.sendai/,https://tabelog.com/miyagi/A0401/A040102/4020322/,1,0
+135,19,和酒bar 旅籠〜はたご〜,,,宮城県仙台市青葉区一番町4-10-11 FRK3F,38.265587,140.869739,022-797-4490,https://tsasakiflow.wixsite.com/hatagojapan,https://twitter.com/concierjapan,https://www.facebook.com/hatagojapan,https://tabelog.com/miyagi/A0401/A040101/4014568/,1,0
+136,19,居酒屋ちょーちょ,,,宮城県仙台市青葉区国分町3丁目4-27,38.266117,140.867189,022-395-9150,https://cho-cho.net/,,,https://tabelog.com/miyagi/A0401/A040101/4014402/,1,0
+137,19,酒とおばんざい わのわ,,,宮城県仙台市青葉区国分町3丁目4-21 第2旭ビル1F,38.266556,140.867097,022-398-3370,https://saketo-obannzai-wanowano-sendai.business.site/,,https://ja-jp.facebook.com/wanowasendai/,https://tabelog.com/miyagi/A0401/A040101/4019359/,1,0
+138,19,トリとヤサイとサケ ともやん,,,宮城県仙台市青葉区木町通2-1-55,38.273122,140.868499,022-725-8458,http://www.hiyokko.co.jp/tomoyan/,,,https://tabelog.com/miyagi/A0401/A040101/4016293/,1,0
+139,19,鳥心,,,宮城県仙台市青葉区錦町1丁目2-18,38.26752,140.876554,022-222-6919,http://www.entatsu.co.jp/torishin/,,,https://tabelog.com/miyagi/A0401/A040101/4000953/,1,0
+140,20,季よせ さゝま,,,兵庫県姫路市十二所前町81,34.830556,134.687224,,,,,https://tabelog.com/hyogo/A2805/A280501/28040146/,1,0
+141,20,日本酒　暮六つ,,,兵庫県姫路市塩町55,34.830955,134.687746,080-6432-0901,,,https://www.facebook.com/nihonshukuremutu/,https://tabelog.com/hyogo/A2805/A280501/28047547/,1,0
+142,20,酒酔 楓香,,,兵庫県姫路市福中町16,34.832775,134.68694,079-282-8889,,,https://www.facebook.com/syusui.fuka,https://tabelog.com/hyogo/A2805/A280501/28044565/,1,0
+143,20,まる雅,,,兵庫県姫路市塩町9,34.831011,134.688715,079-288-9500,,,,https://tabelog.com/hyogo/A2805/A280501/28050761/,1,0
+144,20,播磨旬菜 菊屋,,,兵庫県姫路市十二所前町45,34.830267,134.688304,079-226-2267,,,,https://tabelog.com/hyogo/A2805/A280501/28047319/,1,0
+145,20,割烹 白瀬,,,兵庫県姫路市呉服町3,34.830497,134.694659,079-262-6767,,,https://www.facebook.com/kappo.shirase/,https://tabelog.com/hyogo/A2805/A280501/28047765/,1,0
+146,20,夢番地,,,兵庫県姫路市白銀町71,34.831525,134.69084,079-282-7000,,,https://www.facebook.com/himeji.yumebanchi/,https://tabelog.com/hyogo/A2805/A280501/28050397/,1,0
+147,20,鳥勝 駅南店,,,兵庫県姫路市南駅前町93,34.825101,134.690946,079-224-5753,,,https://www.facebook.com/%E9%B3%A5%E5%8B%9D-454378938003740,https://tabelog.com/hyogo/A2805/A280501/28008824/,1,0
+148,20,じごろ時玄,,,兵庫県姫路市白銀町3,34.829761,134.690315,,,,https://www.facebook.com/%E3%81%98%E3%81%94%E3%82%8D%E6%99%82%E7%8E%84-%E7%82%AD%E7%84%BC%E9%B3%A5%E4%B8%B2%E6%8F%9A%E3%81%92%E5%B1%85%E9%85%92%E5%B1%8B-432134370459136,https://tabelog.com/hyogo/A2805/A280501/28048266/,1,0
+149,20,はりかい 姫路城店,,,兵庫県姫路市本町68,34.838383,134.698656,,,,https://www.facebook.com/harikaihimejijyou,https://tabelog.com/hyogo/A2805/A280501/28043244/,1,0
+150,20,馳走ぜん,,,兵庫県姫路市西二階町103,34.832197,134.689982,079-280-6378,,,,https://tabelog.com/hyogo/A2805/A280501/28048355/,1,0
+151,20,富貴ずし グランフェスタ,,,兵庫県姫路市駅前町188-1,34.827378,134.691003,079-223-5038,,,https://www.facebook.com/fukizusi/,https://tabelog.com/hyogo/A2805/A280501/28004363/,1,0
+152,20,雑魚場 あん西,,,兵庫県姫路市立町41,34.831694,134.690151,079-288-3690,,,,https://tabelog.com/hyogo/A2805/A280501/28039517/,1,0
+153,21,神田新八,,ChIJ793f9gGMGGARIfeqJ2ixVfI,東京都千代田区鍛冶町2-9-1,35.692758,139.772071,03-3254-9729,,,,https://tabelog.com/tokyo/A1310/A131002/13000375/,1,0
+154,21,神田福33,,ChIJWx3oNQCMGGARoIppPBrZJmg,東京都千代田区鍛冶町1-6-7神田バル横丁2F,35.690256,139.771563,03-5298-2933,,,https://ja-jp.facebook.com/pages/category/Personal-Website/%E7%A6%8F33-%E3%81%B5%E3%81%8F%E3%81%BF%E3%81%BF-1532358263720275/,https://tabelog.com/tokyo/A1310/A131002/13177769/,1,0
+155,21,KURARA神田,,ChIJL5__-gCMGGARt1f2ER64QY8,東京都千代田区鍛冶町1-1-6,35.689478,139.770271,03-5207-9366,http://kurara-sake.com/,,https://www.facebook.com/KURARA.KANDA.SAKE/,https://tabelog.com/tokyo/A1310/A131002/13233563/,1,0
+156,21,めろう屋DEN,,ChIJU0QXLQKMGGARa-8CJC01Axo,東京都千代田区内神田3-21-5村井ビル1F,35.692781,139.770416,03-3526-2736,http://mellowya-den.com/,,,https://tabelog.com/tokyo/A1310/A131002/13170400/,1,0
+157,21,保夜萬歩参,,,,,,,,,,https://tabelog.com/tokyo/A1310/A131002/13223173/,1,0
+158,22,青二才,青二才 阿佐ヶ谷,ChIJ70UfMRCMGGAR7JeHGmd8b4E,,,,,,,,,1,0
+159,22,阿佐ヶ谷つむぎや,,ChIJ36AY83fyGGARshAzEZSKOA0,東京都杉並区阿佐谷北1-13-10,35.707523,139.639654,03-5356-8719,,https://twitter.com/tumugiya121,https://ja-jp.facebook.com/tumugiyaasagaya/,https://tabelog.com/tokyo/A1319/A131905/13204679/,1,0
+160,22,打ち薫る亭,,ChIJv3eWINjzGGARRB0a4FoAsws,東京都杉並区阿佐谷北1-26-7,35.706764,139.635932,03-6265-5743,,,,https://tabelog.com/tokyo/A1319/A131905/13223195/,1,0
+161,22,Gift食堂,,ChIJAQAPFnHyGGARufnlF0D_wCk,東京都杉並区阿佐谷南1-34-12,35.701576,139.636618,03-5913-7781,https://www.giftsyokudou.com/,,https://ja-jp.facebook.com/giftshokudouasagaya,https://tabelog.com/tokyo/A1319/A131905/13193823/,1,0
+162,22,酒菜や まつ,,ChIJ7ZvgQ3fyGGAR_nhnXppRb70,東京都杉並区阿佐谷南2-21-14,35.704734,139.639165,03-6315-1611,,https://twitter.com/taigalin,,https://tabelog.com/tokyo/A1319/A131905/13168535/,1,0
+163,22,酒ごはん屋 あかね雲,,ChIJq6pxEXbyGGARRPUWnSC7Uho,東京都杉並区阿佐谷北2-13-16マスキビル201,35.706214,139.635841,03-4285-6558,,https://twitter.com/vc_akanegumo,,https://tabelog.com/tokyo/A1319/A131905/13191349/,1,0
+164,22,酒ノみつや,,ChIJIbkys3HyGGARqtrScNp5VPM,東京都杉並区阿佐谷南1-13-17,35.700107,139.637555,03-3314-6151,,https://twitter.com/saketoyou0328,,https://tabelog.com/tokyo/A1319/A131905/13152178/,1,0
+165,22,Sugar Sake&Coffee,,ChIJO8VOJnTyGGARDo-mHkC7q-s,東京都杉並区阿佐谷南3-34-9,35.703681,139.634821,03-6279-9451,,,https://www.facebook.com/sugarsakecoffee/,https://tabelog.com/tokyo/A1319/A131905/13197037/,1,0
+166,22,とりや 鈴なり,,ChIJ3yW55oLtGGARhAOSBb4bk3s,東京都杉並区阿佐谷北1-27-5,35.707378,139.635377,03-6338-8582,,https://twitter.com/toriyasuzunari,https://ja-jp.facebook.com/%E3%81%A8%E3%82%8A%E3%82%84%E9%88%B4%E3%81%AA%E3%82%8A-226943561223929/,https://tabelog.com/tokyo/A1319/A131905/13222240/,1,0
+167,22,やきとり空間 風緑,,ChIJq6pDg4ntGGAROtqGBEbAk-Y,東京都杉並区阿佐谷北1-37-6,35.708947,139.635579,03-3339-9488,,,https://ja-jp.facebook.com/KAZAMIDORI2016.8.9/,https://tabelog.com/tokyo/A1319/A131905/13199072/,1,0
+168,22,和酒BAR阿佐ヶ谷じゃんぐる,,ChIJKb4DY4ntGGARF78EwfRvr5A,東京都杉並区阿佐谷北1-44-14,35.709764,139.635182,03-5336-8083,,https://twitter.com/asagayajungle,https://ja-jp.facebook.com/pages/category/Bar---Grill/%E5%92%8C%E9%85%92BAR-%E9%98%BF%E4%BD%90%E3%83%B6%E8%B0%B7%E3%81%98%E3%82%83%E3%82%93%E3%81%90%E3%82%8B-652733334786842/,https://tabelog.com/tokyo/A1319/A131905/13169181/,1,0
+169,22,Under the tree,,ChIJrXgnyNirlhQR4D2fr6FPTVk,東京都杉並区阿佐谷北2-2-7,35.705037,139.63468,03-5356-6155,,,,,1,0
+170,23,SAKEstory,,ChIJo-5br-SKGGARrtvCyR_p2js,東京都品川区西五反田2-17-8,35.626303,139.721164,03-6431-9198,https://sake-story.com/,https://twitter.com/sakestory1,https://www.facebook.com/sakestory/,https://tabelog.com/tokyo/A1316/A131603/13212028/,1,0
+171,23,だいぜん,,ChIJSboQ7PuKGGARE38q01uD-yE,東京都品川区東五反田1-10-7,35.627726,139.725883,03-3473-8739,,,,https://tabelog.com/tokyo/A1316/A131603/13014508/,1,0
+172,23,肉バルミート酒場たか,,ChIJO_FneT-LGGARJ9-K2LlrUQY,東京都品川区東五反田1-16-4,35.626734,139.725386,03-6450-2718,,,https://www.facebook.com/happycamper.tokyo/,https://tabelog.com/tokyo/A1316/A131603/13221932/,1,0
+173,23,ほじゃひ,,ChIJ__9bo_uKGGARmgRz_3iZBLQ,東京都品川区東五反田1-12-9,35.626712,139.724913,03-3445-8223,,https://twitter.com/hojahigotanda?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,https://www.facebook.com/okonomihojahi/,https://tabelog.com/tokyo/A1316/A131603/13177295/,1,0
+174,23,和酒バールAGI,,ChIJ0WZAz_qKGGARkPXijDwJWqg,東京都品川区西五反田1-25-1,35.62402,139.722339,03-6417-9180,http://www.washubar-agi.tokyo/,https://twitter.com/agi0422,https://www.facebook.com/sakebaragi/,https://tabelog.com/tokyo/A1316/A131603/13125670/,1,0
+175,24,神楽坂ぼっちりや,,ChIJq4NM7FqMGGAR1-uJdakx-kY,東京都新宿区神楽坂6-8-12,35.702998,139.73779,,,https://twitter.com/botchiriya,https://ja-jp.facebook.com/botchiriya/,https://tabelog.com/tokyo/A1309/A130905/13200061/,1,0
+176,24,旬菜料理山灯,,ChIJY-Q_gO2MGGARFoAVT9KGneg,東京都新宿区舟町3-6,35.688897,139.721692,03-3354-1550,https://yamabikojp.jimdo.com/,,,https://tabelog.com/tokyo/A1309/A130903/13135917/,1,0
+177,24,坂下良酒倉庫,,ChIJd_2OSluMGGARs7soX1DIIt4,東京都新宿区神楽坂1-11,35.700465,139.742123,03-6265-0265,,,https://ja-jp.facebook.com/sakashitaryoshu/,https://tabelog.com/tokyo/A1309/A130905/13201340/,1,0
+178,24,蕎麦しおさい,,ChIJ94lz2FiMGGAR1szVHFvdtok,東京都新宿区払方町15-4,35.696913,139.734566,03-5579-8199,,,https://ja-jp.facebook.com/pages/category/Soba-Restaurant/%E8%95%8E%E9%BA%A6%E3%81%97%E3%81%8A%E3%81%95%E3%81%84-679932212060007/,https://tabelog.com/tokyo/A1309/A130905/13164773/,1,0
+179,24,日本酒スタンド酛,,ChIJ1XZr7NuMGGARr5NqLz2vlZM,東京都新宿区新宿5-17-11,35.692882,139.70556,03-6457-3288,https://ameblo.jp/shinjuku-moto/,https://twitter.com/shinjukumoto,,https://tabelog.com/tokyo/A1304/A130401/13111891/,1,0
+180,24,焼鳥はちまん,,ChIJEUNJfxmNGGARLm1bbcBEL7Q,東京都新宿区西早稲田3-1-1,35.709597,139.716378,03-3203-2880,,,https://www.facebook.com/%E7%84%BC%E9%B3%A5%E3%81%AF%E3%81%A1%E3%81%BE%E3%82%93-137414812970527/,https://tabelog.com/tokyo/A1305/A130504/13000055/,1,0
+181,27,遊酒　ほんじょう,,,愛知県名古屋市東区豊前町2-72,35.176806,136.935928,,,,,,1,0
+182,27,米家(まいほーむ),,,愛知県名古屋市千種区内山3-1-15,35.172198,136.932915,,,,,,1,0
+183,27,安西コーブンドー,,,愛知県名古屋市千種区今池1-9-3,35.168738,136.935951,,,,,,1,0
+184,27,お燗とvinめし くいぜ,,,愛知県名古屋市東区葵2-11-22,35.171315,136.924899,,,,,,1,0
+185,27,豆家のりのり,,,愛知県名古屋市中区中区葵2-13-24,35.169982,136.924763,,,,,,1,0
+186,27,ぽろホームメイドキッチン新栄店,,,愛知県名古屋市中区新栄1-6,35.168965,136.918844,,,,,,1,0
+187,27,だいどころAuntie,,,愛知県名古屋市中区東桜2-18-30,35.170195,136.918005,,,,,,1,0
+188,27,肴糀醸やしろ,,,愛知県名古屋市中区中区新栄1-6-27,35.168993,136.918486,,,,,,1,0
+189,26,StanDining やまびこ,,,愛知県名古屋市中区栄3-8-102,35.167317,136.904987,,,,,,1,0
+190,26,桜びより,,,愛知県名古屋市中区栄3-9-17,35.166823,136.904537,,,,,,1,0
+191,26,住吉町 もくらん,,,愛知県名古屋市中区栄3-9-22,35.166995,136.904104,,,,,,1,0
+192,26,炭火焼鳥とうまい酒　立葵,,,愛知県名古屋市中区栄2-7-5,35.167217,136.90074,,,,,,1,0
+193,26,日本酒専門店 ゆとり,,,愛知県名古屋市中区錦3-13-5,35.17143,136.904901,,,,,,1,0
+194,25,みち藤,,,愛知県名古屋市中区丸の内3-8-18,35.176196,136.904648,,,,,,1,0
+195,25,旨酒楽食まるく,,,愛知県名古屋市中区丸の内2-18-22,35.173541,136.89876,,,,,,1,0
+196,25,串カツとどて煮 然,,,愛知県名古屋市中区丸の内1-8-8,35.17611,136.896274,,,,,,1,0
+197,25,ぽろ ホームメイドキッチン 円頓寺店,,,愛知県名古屋市西区那古野1-6-18,35.176523,136.891394,,,,,,1,0
+198,25,路麺えんそば　円頓寺商店街店,,,愛知県名古屋市西区那古野1-21-21,35.176096,136.891885,,,,,,1,0
+199,25,鈴音,,,愛知県名古屋市西区那古野1-1-23,35.176729,136.893174,,,,,,1,0
+200,25,鴨料理 風月,,,愛知県名古屋市西区那古野1-30-8,35.174243,136.89183,,,,,,1,0
+201,25,むぎコメぶどう　ヤシオリ,,,愛知県名古屋市中村区名駅4-22-8,35.168977,136.889002,,,,,,1,0
+202,25,醸しメシかもし酒 糀や,,,愛知県名古屋市中村区名駅4-13-3,35.169294,136.887847,,,,,,1,0
+203,25,ぽろ ホームメイドキッチン 柳橋店,,,愛知県名古屋市中村区名駅4-13-13,35.16943,136.887464,,,,,,1,0
+204,28,醸造酒場アジート大名店,,,福岡県福岡市中央区大名2-1-30,33.588363,130.393769,050-3726-3020,,,,,1,0
+205,28,一風堂西通りスタンド,,,福岡県福岡市中央区大名1-12-61,33.588538,130.396316,092-707-3202,,,,,1,0
+206,28,串鉄板 天一,,,福岡県福岡市中央区大名1-3-30,33.586416,130.393327,092-761-3351,,,,,1,0
+207,28,三九酒場 けごむす,,,福岡県福岡市中央区警固2-15-1,33.584441,130.39116,092-406-7855,,,,,1,0
+208,29,かんすけ薬院店,,,福岡県福岡市中央区薬院1-5-25,33.582239,130.400224,092-751-2868,,,,,1,0
+209,29,パーラー三芳,,,福岡県福岡市中央区今泉1-3,33.584488,130.400001,,,,,,1,0
+210,29,博多空気椅子酒場赤星,,,福岡県福岡市中央区渡辺通4-1-20,33.584708,130.402354,,,,,,1,0
+211,29,膾炙,,,福岡県福岡市中央区高砂1-5-2,33.581455,130.406101,,,,,,1,0
+212,29,木乃芽,,,福岡県福岡市中央区高砂1-22-9,33.581253,130.405151,,,,,,1,0
+213,29,あかりや,,,福岡県福岡市中央区白金1-9-18,33.57832,130.405787,,,,,,1,0
+214,28,串揚げたつかわ,,,福岡県福岡市中央区西中洲2-14,33.590499,130.404918,,,,,,1,0
+215,28,旬彩じぱんぐ,,,福岡県福岡市中央区春吉3-16-41,33.588688,130.408218,,,,,,1,0
+216,29,とどろき酒店薬院stand！,,,福岡県福岡市中央区薬院3-7-30,33.578342,130.400007,,,,,,1,0
+217,29,食と酒なかむた,,,福岡県福岡市中央区平尾1-12-3,33.577609,130.401735,,,,,,1,0
+218,29,郷 日本酒と…,,,福岡県福岡市中央区平尾1-12-21,33.577267,130.40159,,,,,,1,0
+219,29,銀しゃり酒菜山本山,,,福岡県福岡市中央区平尾2-2-20,33.575203,130.403685,,,,,,1,0
+220,29,酒場おっとん,,,福岡県福岡市中央区平尾2-14-19,33.573465,130.404496,,,,,,1,0
+221,29,炉端ト酒タキビヤ,,,福岡県福岡市南区高宮1-14-17,33.572965,130.405137,,,,,,1,0
+222,29,小料理おどん,,,福岡県福岡市南区南区大楠3-21-5,33.567557,130.414614,,,,,,1,0
+223,30,べんがら酒場,,,岡山県岡山市北区駅前町1-9-7,34.666086,133.922393,,,,,,1,0
+224,30,創菜居酒屋 伍右衛門,,,岡山県岡山市北区本町10-8,34.664114,133.921126,,,,,,1,0
+225,30,和酒Bar Iwatsuki,,,岡山県岡山市北区磨屋町7-1,34.663761,133.924351,,,,,,1,0
+226,30,うつのみ屋,,,岡山県岡山市北区磨屋町4-21,34.663964,133.925306,,,,,,1,0
+227,30,酒肴 呑,,,岡山県岡山市北区平和町7-28,34.6632,133.923118,,,,,,1,0
+228,30,てっぱんひろし,,,岡山県岡山市北区田町1-2-5,34.662364,133.924845,,,,,,1,0
+229,30,七輪焼肉 岩勝 田町店,,,岡山県岡山市北区田町2-14-4,34.658806,133.923524,,,,,,1,0
+230,30,錦と吟,,,岡山県岡山市北区柳町2-10-4,34.656695,133.922077,,,,,,1,0
+231,30,備前ヤ菜とチロリ,,,岡山県岡山市北区中山下1-7-23,34.663922,133.927215,,,,,,1,0
+232,30,華伝座,,,岡山県岡山市北区丸の内2-7-9,34.664114,133.933789,,,,,,1,0
+233,30,中村食堂,,,岡山県岡山市北区丸の内1-12-1,34.663014,133.932064,,,,,,1,0
+234,30,精進・懐石 ふや平,,,岡山県岡山市北区丸の内2-5-2,34.663045,133.936086,,,,,,1,0
+235,30,日本酒バル 解放区,,,岡山県岡山市北区内山下1-3-3,34.662145,133.9322,,,,,,1,0
+236,30,地酒と魚とおでん 金星のとなり,,,岡山県岡山市北区表町2-5-12,34.660151,133.929964,,,,,,1,0
+237,30,酒＆食 KAMEKICHI,,,岡山県岡山市北区表町3-6-15,34.658615,133.92964,,,,,,1,0
+238,31,立ち飲み そらや,,,広島県広島市中区八丁堀4-7,34.396863,132.464172,082-224-6235,,,https://www.facebook.com/standingbarsoraya/,https://tabelog.com/hiroshima/A3401/A340101/34017106/,1,0
+239,31,焦がし焼きそば 嬉一,,,広島県広島市中区八丁堀13-2-1,34.394966,132.463013,082-221-0975,http://ameblo.jp/kiichi45/,,,https://tabelog.com/hiroshima/A3401/A340101/34014871/,1,0
+240,31,きがる家,,,広島県広島市中区幟町7-27,34.394863,132.46621,,,,,,1,0
+241,31,フロマジュリー・ピノ,,,広島県広島市中区幟町11-1,34.394377,132.466338,,,,,,1,0
+242,31,四季祭,,,広島県広島市中区幟町12-10,34.394093,132.465144,,,,,,1,0
+243,31,酒楽処 しん,,,広島県広島市中区薬研堀6-12,34.390591,132.4645,,,,,,1,0
+244,31,時喰 一具,,,広島県広島市中区流川町6-14,34.390077,132.463169,,,,,,1,0
+245,31,いぶしぎん,,,広島県広島市中区三川町1-1,34.390627,132.463127,,,,,,1,0
+246,31,むしやしない,,,広島県広島市中区新天地2−8,34.391794,132.462619,,,,,,1,0
+247,31,山人,,,広島県広島市中区富士見町4-28,34.387602,132.460861,,,,,,1,0
+248,31,醸 はせべ,,,広島県広島市中区中町5-4,34.390266,132.459014,,,,,,1,0
+249,31,炙り屋 はちすけ,,,広島県広島市中区中町5-15-201,34.390666,132.458953,,,,,,1,0
+250,31,炭火焼鳥 はな串,,,広島県広島市中区大手町2-6-25,34.392396,132.45557,,,,,,1,0
+251,35,文禄堤 茶味,,ChIJgzEDuJ3hAGARPCyyupidZyI,,,,,,,,https://tabelog.com/osaka/A2707/A270701/27085456/,1,0
+252,35,鉄板酒場 野次馬 ,,ChIJjfDYuJ3hAGAR_-3l1KvMLsY,,,,,,,,https://tabelog.com/osaka/A2707/A270701/27092315/,1,0
+253,36,日本酒LARGO,,ChIJ___jYobcAGARlU5X8mCmEZk,,,,,,,,https://tabelog.com/osaka/A2705/A270501/27092955/,1,0
+254,36,まぐろ日本酒スタンドバル寛十郎,,,大阪府堺市堺区中瓦町2-2-6,34.575251,135.482908,090-3611-1202,,,,https://tabelog.com/osaka/A2705/A270501/27111207/,0,0
+255,36,味ごよみ淳平,,ChIJDeqrq1TdAGAR-rB5lQjW7Yw,,,,,,,https://www.facebook.com/kanjyurou/,https://tabelog.com/osaka/A2705/A270501/27104739/,1,0
+256,36,ひものと地酒のお店 彩酒,,ChIJlYHCV4XcAGARjHXWaVbo3cE,,,,,,,,https://tabelog.com/osaka/A2705/A270501/27097829/,1,0
+257,36,日本酒こころのバー,,ChIJ___TRrjbAGAR1yiThA5iEmw,,,,,,,,https://tabelog.com/osaka/A2705/A270501/27093061/,1,0
+258,4,旬ごはん ほのぼの,,ChIJPwXOAdbgAGARsurMbCnM9xA,,,,,,,,https://tabelog.com/osaka/A2701/A270107/27016175/,1,0
+259,4,いろり庵 みつば,,ChIJhXtAe9bgAGAR5p-lfwKAZ9o,,,,,,,,https://tabelog.com/osaka/A2701/A270107/27102572/,1,0
+260,1,茶屋町Marry,,ChIJfZKV05HnAGARX2MBaXyD-Cs,,,,,,,,https://tabelog.com/osaka/A2701/A270101/27110280/,1,0
+261,1,ニューメェイル,,ChIJzSPnQunmAGARK_1SYfAB2X8,,,,,,,,https://tabelog.com/osaka/A2701/A270101/27071124/,1,0
+262,1,お酒と和彩 いづる ,,ChIJs1hqICnnAGARm3x7581hf_U,,,,,,,,https://tabelog.com/osaka/A2701/A270101/27110186/,1,0
+263,2,日本酒福,,ChIJs6MPONrmAGARL5QQ89ujaLQ,,,,,,,,https://tabelog.com/osaka/A2701/A270103/27096276/,1,0
+264,3,路地裏アバンギャルド,,ChIJhwmPpYrmAGARYVwxO4bRlAs,,,,,,,,https://tabelog.com/osaka/A2701/A270108/27104280/,1,0
+265,3,三代目うめきち,,ChIJPaH5b2DmAGARFQ-llfvDMqc,,,,,,,,https://tabelog.com/osaka/A2701/A270108/27085517/,1,0
+266,3,お酒とさかな かけはし,かけはし　福島,ChIJq2kwi1_mAGARKEFsUjAQmwU,,,,,,,,https://tabelog.com/osaka/A2701/A270108/27075466/,1,0
+267,3,千喜千輝,,ChIJFbg9EGzmAGARzPg-vPzkFNo,,,,,,https://twitter.com/chiki2005chiki,https://www.facebook.com/Chiki2005Chiki/,https://tabelog.com/osaka/A2701/A270108/27108632/,1,0
+268,5,靱本町がく,,ChIJk__KYfzmAGARTgap6VXYC-4,,,,,,,,https://tabelog.com/osaka/A2701/A270102/27074091/,1,0
+269,6,南たこ梅,,ChIJ52kpRhXnAGARDkjhC23Qwk4,,,,,,,,https://tabelog.com/osaka/A2701/A270202/27071160/,1,0
+270,7,日本のお酒と ゆう屋,,ChIJ92-n_avgAGARqPeG7Jg7Pys,,,,,,,,,0,0
+271,7,細工谷酒類研究所,,ChIJKVfwcQbhAGARutJ_oWlatAM,,,,,,,,https://tabelog.com/osaka/A2701/A270203/27089433/,1,0
+272,37,大阪焼きとんたゆたゆ裏天王寺,たゆたゆ裏天王寺,ChIJsWjnapjdAGARks4dzVzUczQ,,,,,,,,https://tabelog.com/osaka/A2701/A270203/27106359/,1,0
+273,7,純米酒専門店 うお家 猫八,,ChIJRYeNNpHhAGARmo51p4bZIbw,,,,,,,,https://tabelog.com/osaka/A2701/A270204/27105054/,1,0
+274,6,サケとスミビとロシュタン,,ChIJ_bVGoBLnAGAR9WOQRsp1GCY,,,,,,https://twitter.com/roshutan,https://ja-jp.facebook.com/pages/category/Bar/%E3%82%B5%E3%82%B1%E3%81%A8%E3%82%B9%E3%83%9F%E3%83%93%E3%81%A8%E3%83%AD%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%B3-636124159736689/,https://tabelog.com/osaka/A2701/A270202/27072859/,1,0
+275,37,ごはんとお酒と布と糸fudan,,ChIJJQDKcNTdAGARLS5lcpU340Y,,,,,,,,https://tabelog.com/osaka/A2701/A270405/27067113/,1,0
+276,22,酒好房 かえでの森,,,,,,,,,https://www.facebook.com/sakekouboukaedenomori/?ref=py_c,https://tabelog.com/tokyo/A1319/A131905/13235096/,1,0
+277,23,きになる嫁デラックス,,,,,,,http://yome.tokyo/,https://twitter.com/kininaruyome,https://ja-jp.facebook.com/amihirano0904/,https://tabelog.com/tokyo/A1316/A131603/13211242/,1,0
+278,23,曲宴あぎ,,,,,,,,https://twitter.com/kyokuenagi0104,https://ja-jp.facebook.com/kyokuenagi/,https://tabelog.com/tokyo/A1316/A131603/13230429/,1,0
+279,23,桑原商店,,,,,,,,,,https://tabelog.com/tokyo/A1316/A131603/13229221/,1,0
+280,23,sakeおかわり 五反田店,,,,,,,http://gohan.co/okawari/,,https://ja-jp.facebook.com/okawari.gotanda/,https://tabelog.com/tokyo/A1316/A131603/13183697/,1,0
+281,23,料理屋染川,,,,,,,,,,https://tabelog.com/tokyo/A1316/A131603/13187682/,1,0
+282,38,Sake Scene 〼福,,,,,,,http://sakescene.com/,,https://ja-jp.facebook.com/pages/category/Sake-Bar/SAKE-Scene-%E3%80%BC%E7%A6%8F-1093193087412983/,https://tabelog.com/tokyo/A1314/A131401/13202506/,1,0
+283,38,日本酒 室,,,,,,,http://muro.favy.jp/,,https://ja-jp.facebook.com/sakemuro/,https://tabelog.com/tokyo/A1314/A131401/13202769/,1,0
+284,38,ブエナビスタトーキョー,,,,,,,,,https://www.facebook.com/buenavistatokyo/,https://tabelog.com/tokyo/A1314/A131401/13228107/,1,0
+285,38,名酒センター,名酒センター浜松町本店,,,,,,https://nihonshu.com/,,,https://tabelog.com/tokyo/A1314/A131401/13023297/,1,0
+286,38,和酒バル 廻,,,,,,,,,https://ja-jp.facebook.com/CafeDiningBarSoulTribe/,https://tabelog.com/tokyo/A1301/A130103/13175442/,1,0
+287,38,和酒わのくに,,,,,,,,,,https://tabelog.com/tokyo/A1314/A131401/13210456/,1,0
+288,39,炭市場どんどこ,どんどこ 西池袋店,,,,,,https://sumi-dondoko-ike.owst.jp/,,,https://tabelog.com/tokyo/A1305/A130501/13029168/,1,0
+289,39,日本酒BAR希紡庵,,,,,,,,https://twitter.com/kibouan,https://ja-jp.facebook.com/kibouan/,https://tabelog.com/tokyo/A1305/A130501/13116393/,1,0
+290,39,樂醉くばら,,,,,,,,,https://ja-jp.facebook.com/rakusuikubara,https://tabelog.com/tokyo/A1305/A130501/13193587/,1,0
+291,39,和酒酔処 わく,わく 池袋,,,,,,,https://twitter.com/miyan77,https://ja-jp.facebook.com/nisiikewakuwaku/,https://tabelog.com/tokyo/A1305/A130501/13153145/,1,0
+292,40,きみまち坂,きみまち坂 渋谷,,,,,,,,https://www.facebook.com/pages/category/Bar/%E9%85%94%E3%81%84%E9%85%92%E9%85%94%E3%81%84%E8%82%B4%E3%81%8D%E3%81%BF%E3%81%BE%E3%81%A1%E5%9D%82-354009841744025/,https://tabelog.com/tokyo/A1303/A130301/13173522/,1,0
+293,40,純米酒三品,,,,,,,,https://twitter.com/jun3pin,https://ja-jp.facebook.com/sakabunken/,https://tabelog.com/tokyo/A1303/A130301/13203163/,1,0
+294,40,蕎麦天ぷら 円山町わだつみ,円山町わだつみ,,,,,,https://wadatsumigroup.com/,,https://www.facebook.com/pg/%E5%86%86%E5%B1%B1%E7%94%BA%E3%82%8F%E3%81%A0%E3%81%A4%E3%81%BF-433693563331834/posts/,https://tabelog.com/tokyo/A1303/A130301/13142869/,1,0
+295,40,DJBAR東問屋,DJ Bar 東間屋（AZUMAYA）,,,,,,https://azumaya.jp/,,,,1,0
+296,40,庵狐 恵比寿店,庵狐 あんこ 恵比寿店,,,,,,,,,https://tabelog.com/tokyo/A1303/A130302/13026549/,1,0
+297,40,えびす呑み屋 やました,,,,,,,http://ebisu-nomiba.com/,,https://www.facebook.com/ebisunomibayamashita/,https://tabelog.com/tokyo/A1303/A130302/13210002/,1,0
+298,40,きたぽん酒,,,,,,,,,https://ja-jp.facebook.com/pages/category/Local-Service/%E3%81%8D%E3%81%9F%E3%81%BD%E3%82%93%E9%85%92-1658945310853026/,https://tabelog.com/tokyo/A1307/A130703/13231928/,1,0
+299,40,魚バー 一歩,魚BAR一歩 渋谷,,,,,,,,,https://tabelog.com/tokyo/A1303/A130302/13032678/,1,0
+300,40,酒 秀治郎,,,,,,,,,https://ja-jp.facebook.com/sakehidejiro/,https://tabelog.com/tokyo/A1303/A130302/13222854/,1,0
+301,40,SOBA&SAKE 八福寿家,,,,,,,,,,https://tabelog.com/tokyo/A1303/A130302/13214575/,1,0
+302,40,日本酒 はなたれ,,,,,,,,,https://ja-jp.facebook.com/umioden/,https://tabelog.com/tokyo/A1303/A130302/13186979/,1,0
+303,40,麦酒庵 恵比寿店,,,,,,,,,,https://tabelog.com/tokyo/A1303/A130302/13165346/,1,0
+304,40,庵狐 三宿店,,,,,,,https://grill-anko.jp/misyuku,,,https://tabelog.com/tokyo/A1317/A131705/13024958/,1,0
+305,40,えんじゃく、,,,,,,,,,https://ja-jp.facebook.com/sakeenjyaku/,https://tabelog.com/tokyo/A1317/A131705/13212631/,1,0
+306,40,SAKE BAR TORA,,,,,,,,,https://ja-jp.facebook.com/SAKEBARTORA/,https://tabelog.com/tokyo/A1317/A131705/13207165/,1,0
+307,40,四季ごはん ししくら,,,,,,,,,,https://tabelog.com/tokyo/A1317/A131705/13182699/,1,0
+308,40,成味屋,,,,,,,,,https://b-m.facebook.com/narumiya.kejiri/,https://tabelog.com/tokyo/A1317/A131705/13172662/,1,0
+309,40,保月,,,,,,,http://www.houduki.jp/,,,https://tabelog.com/tokyo/A1317/A131705/13013759/,1,0
+310,24,愛緑喜宴,,,,,,,http://www.ai-en-ki-en.com/,,https://ja-jp.facebook.com/aienkien.kagurazaka,https://tabelog.com/tokyo/A1309/A130905/13173908/,1,0
+311,24,SWアニエス,,,東京都新宿区払方町15-4,35.696899,139.73456,,,,https://ja-jp.facebook.com/AgnesSelection,,0,0
