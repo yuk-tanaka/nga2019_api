@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Api;
 
 use App\Eloquents\Participant;
 use App\Http\Controllers\Controller;
+use App\Http\Requests\FetchTimelineRequest;
 use App\Http\Requests\SearchParticipantForAreasRequest;
 use App\Http\Requests\SearchParticipantForDistanceRequest;
 use App\Http\Requests\SearchParticipantForFavoritesRequest;
@@ -82,16 +83,16 @@ class ParticipantController extends Controller
 
     /**
      * @param int $year
-     * @param SearchParticipantForAreasRequest $request
+     * @param FetchTimelineRequest $request
      * @return ResourceCollection
      */
-    public function timeline(int $year, SearchParticipantForAreasRequest $request): ResourceCollection
+    public function timeline(int $year, FetchTimelineRequest $request): ResourceCollection
     {
-        $participants = $this->participant
-            ->year($year)
-            ->areas($request->areaIds)
-            ->orderBy('opened_at', 'asc')
-            ->get();
+        $builder = $request->areaIds
+            ? $this->participant->year($year)->areas($request->areaIds)
+            : $this->participant->whereIn('id', $request->participantIds);
+
+        $participants = $builder->orderBy('opened_at', 'asc')->get();
 
         return TimelineResource::collection($participants);
     }
