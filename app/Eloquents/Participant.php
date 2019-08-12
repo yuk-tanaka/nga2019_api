@@ -80,6 +80,8 @@ class Participant extends Model
         'closed_at',
         'opened_at_after_break',
         'closed_at_after_break',
+        'restaurant_description',
+        'sake_description',
     ];
 
     /**
@@ -119,7 +121,6 @@ class Participant extends Model
     {
         return $builder->where('year', $year);
     }
-
 
     /**
      * 距離近い店を計算するSQL

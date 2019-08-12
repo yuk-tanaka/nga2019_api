@@ -22,6 +22,8 @@ class ParticipantSeeder extends CsvSeeder
             4 => 'closed_at',
             5 => 'opened_at_after_break',
             6 => 'closed_at_after_break',
+            7 => 'restaurant_description',
+            8 => 'sake_description',
         ];
     }
 }

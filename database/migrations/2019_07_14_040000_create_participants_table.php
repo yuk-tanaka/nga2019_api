@@ -23,6 +23,8 @@ class CreateParticipantsTable extends Migration
             //マルチカラムアトリビュートだがMAX2なので許容
             $table->dateTime('opened_at_after_break')->nullable()->index();
             $table->dateTime('closed_at_after_break')->nullable()->index();
+            $table->text('restaurant_description')->nullable();
+            $table->text('sake_description')->nullable();
         });
     }
 

@@ -19,6 +19,9 @@ class BrewerySeeder extends CsvSeeder
             1 => 'name',
             2 => 'prefecture',
             3 => 'sakenote_maker_id',
+            4 => 'company_name',
+            5 => 'address',
+            6 => 'web',
         ];
     }
 }

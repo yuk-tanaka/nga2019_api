@@ -76,7 +76,7 @@ class FetchBrewery extends Command
      */
     private function registerSakenoteMakerIdAndCompanyName(Brewery $brewery): Brewery
     {
-        if ($brewery->sakenote_maker_id) {
+        if ($brewery->sakenote_maker_id && $brewery->company_name) {
             return $brewery;
         }
         $url = config('nga.sakenote_api_url') . 'sakes';
