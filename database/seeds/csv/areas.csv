@@ -28,8 +28,8 @@ id,city_id,name,color
 27,8,新栄・千種・今池,deep-purple
 30,9,岡山,red
 31,10,広島,red
-28,11,天神・大名・中洲,red
-29,11,薬院・平尾,indigo
+28,11,大名・警固,red
+29,11,薬院・高砂,indigo
 32,12,仙台,red
 33,13,松江,red
 34,14,高知,red
@@ -41,4 +41,6 @@ id,city_id,name,color
 40,7,渋谷・恵比寿・池尻,green
 41,5,円山・西28丁目,blue-grey
 42,12,静岡,red
-
+43,11,華香江・六本松,deep-purple
+44,11,西中洲,pink
+45,11,高宮・平尾,blue-grey
