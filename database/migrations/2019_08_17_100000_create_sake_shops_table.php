@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateBreweriesTable extends Migration
+class CreateSakeShopsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,17 +13,15 @@ class CreateBreweriesTable extends Migration
      */
     public function up()
     {
-        Schema::create('breweries', function (Blueprint $table) {
+        Schema::create('sake_shops', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->unsignedBigInteger('sake_shop_id')->index()->nullable();
+            $table->unsignedBigInteger('city_id')->index();
             $table->string('name')->index();
-            $table->string('prefecture')->index();
-            $table->string('sakenote_maker_id')->index()->nullable();
-            $table->string('company_name')->nullable();
+            $table->string('google_place_id')->nullable();
+            $table->string('google_url', 1024)->nullable();
             $table->string('address')->nullable();
-            $table->string('web', 1024)->nullable();
-            $table->string('twitter', 1024)->nullable();
-            $table->string('facebook', 1024)->nullable();
+            $table->string('tel')->nullable();
+            $table->text('business_hours')->nullable();
             $table->timestamps();
             $table->index(['created_at', 'updated_at']);
         });
@@ -36,6 +34,6 @@ class CreateBreweriesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('breweries');
+        Schema::dropIfExists('sake_shops');
     }
 }

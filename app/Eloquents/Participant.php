@@ -43,6 +43,10 @@ use Illuminate\Database\Eloquent\Relations\HasOne;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant nearby($latitude, $longitude)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant whereClosedAtAfterBreak($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant whereOpenedAtAfterBreak($value)
+ * @property string|null $restaurant_description
+ * @property string|null $sake_description
+ * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant whereRestaurantDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant whereSakeDescription($value)
  */
 class Participant extends Model
 {
@@ -58,7 +62,8 @@ class Participant extends Model
 
     /** @var array */
     protected $casts = [
-        'shop_id' => 'integer',
+        'brewery_id' => 'integer',
+        'restaurant_id' => 'integer',
     ];
 
     /** @var array */
@@ -163,7 +168,7 @@ SQL;
             . $this->closed_at->format('H:i');
 
         if ($this->opened_at_after_break && $this->closed_at_after_break) {
-            $hour .= "&nbsp;"
+            $hour .= " "
                 . $this->opened_at_after_break->format('H:i')
                 . self::BUSINESS_HOUR_DELIMITER
                 . $this->closed_at_after_break->format('H:i');

@@ -4,6 +4,7 @@ namespace App\Console;
 
 use App\Console\Commands\FetchBrewery;
 use App\Console\Commands\FetchRestaurant;
+use App\Console\Commands\FetchSakeShop;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
@@ -17,6 +18,7 @@ class Kernel extends ConsoleKernel
     protected $commands = [
         FetchBrewery::class,
         FetchRestaurant::class,
+        FetchSakeShop::class,
     ];
 
     /**

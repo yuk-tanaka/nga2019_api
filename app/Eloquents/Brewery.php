@@ -3,6 +3,7 @@
 namespace App\Eloquents;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\HasOneThrough;
 
@@ -39,6 +40,9 @@ use Illuminate\Database\Eloquent\Relations\HasOneThrough;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Brewery whereAddress($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Brewery whereCompanyName($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Brewery whereSakenoteMakerId($value)
+ * @property int|null $sake_shop_id
+ * @property-read \App\Eloquents\SakeShop|null $sakeShop
+ * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Brewery whereSakeShopId($value)
  */
 class Brewery extends Model
 {
@@ -47,11 +51,13 @@ class Brewery extends Model
     /** @var array */
     protected $casts = [
         'restaurant_id' => 'integer',
+        'sake_shop_id' => 'integer',
     ];
 
     /** @var array */
     protected $fillable = [
         'restaurant_id',
+        'sake_shop_id',
         'name',
         'prefecture',
         'sakenote_maker_id',
@@ -84,5 +90,14 @@ class Brewery extends Model
     public function restaurant2018(): HasOneThrough
     {
         return $this->hasOneThrough(Restaurant::class, Participant2018::class);
+    }
+
+    /**
+     * nullable
+     * @return BelongsTo
+     */
+    public function sakeShop(): BelongsTo
+    {
+        return $this->belongsTo(SakeShop::class)->withDefault();
     }
 }

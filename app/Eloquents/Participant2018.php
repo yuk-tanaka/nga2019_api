@@ -36,6 +36,10 @@ use Illuminate\Database\Eloquent\Builder;
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant nearby($latitude, $longitude)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant2018 whereClosedAtAfterBreak($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant2018 whereOpenedAtAfterBreak($value)
+ * @property string|null $restaurant_description
+ * @property string|null $sake_description
+ * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant2018 whereRestaurantDescription($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\Participant2018 whereSakeDescription($value)
  */
 class Participant2018 extends Participant
 {

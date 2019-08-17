@@ -113,6 +113,7 @@ class ParticipantController extends Controller
     {
         return [
             'brewery',
+            'brewery.sakeShop',
             'restaurant',
             'restaurant.area',
             'restaurant.area.city',

@@ -26,6 +26,7 @@ use Illuminate\Database\Eloquent\Relations\HasManyThrough;
  * @property int $order
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\City whereOrder($value)
  * @method static \Illuminate\Database\Eloquent\Builder|\App\Eloquents\City year($year)
+ * @property-read \Illuminate\Database\Eloquent\Collection|\App\Eloquents\SakeShop[] $sakeShops
  */
 class City extends Model
 {
@@ -55,6 +56,14 @@ class City extends Model
     public function restaurants(): HasManyThrough
     {
         return $this->hasManyThrough(Restaurant::class, Area::class);
+    }
+
+    /**
+     * @return HasMany
+     */
+    public function sakeShops(): HasMany
+    {
+        return $this->hasMany(SakeShop::class);
     }
 
     /**

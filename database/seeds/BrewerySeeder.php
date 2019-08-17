@@ -22,6 +22,7 @@ class BrewerySeeder extends CsvSeeder
             4 => 'company_name',
             5 => 'address',
             6 => 'web',
+            7 => 'sake_shop_id',
         ];
     }
 }
