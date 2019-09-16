@@ -168,6 +168,7 @@ SQL;
             ->where('latitude', '!=', null)
             ->where('longitude', '!=', null)
             ->select($this->fillable)
+            ->addSelect('participants.id')
             ->selectRaw($select)
             ->orderBy('distance', 'asc');
     }
