@@ -11,6 +11,7 @@ use App\Http\Requests\SearchParticipantForFavoritesRequest;
 use App\Http\Resources\TimelineResource;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Http\Resources\Json\ResourceCollection;
+use Symfony\Component\HttpKernel\Exception\HttpException;
 
 class ParticipantController extends Controller
 {
@@ -98,11 +99,17 @@ class ParticipantController extends Controller
     }
 
     /**
+     * @param int $year
      * @param Participant $participant
      * @return Participant
+     * @throws HttpException
      */
-    public function show(Participant $participant): Participant
+    public function show(int $year, Participant $participant): Participant
     {
+        if ($participant->year !== $year) {
+            abort(404);
+        }
+
         return $participant->load($this->with());
     }
 

@@ -27,7 +27,7 @@ Route::get('{year}/participants/all', 'ParticipantController@all');
 Route::get('{year}/participants/timeline', 'ParticipantController@timeline');
 Route::get('{year}/participants/favorites', 'ParticipantController@favorites');
 Route::get('{year}/participants/nearby', 'ParticipantController@nearby');
-Route::get('participants/{participant}', 'ParticipantController@show');
+Route::get('{year}/participants/{participant}', 'ParticipantController@show');
 
 //restaurant
 Route::get('/restaurants', 'RestaurantController@index');
