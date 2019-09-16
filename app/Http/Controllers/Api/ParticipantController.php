@@ -39,7 +39,7 @@ class ParticipantController extends Controller
         return $this->participant
             ->year($year)
             ->areas($request->areaIds)
-            ->orderBy('restaurant_id', 'asc')
+            ->sort()
             ->paginate(config('nga.paginate'))
             ->appends($request->all());
     }
@@ -50,7 +50,7 @@ class ParticipantController extends Controller
      */
     public function all(int $year): LengthAwarePaginator
     {
-        return $this->participant->year($year)->orderBy('restaurant_id', 'asc')->paginate(config('nga.paginate'));
+        return $this->participant->year($year)->sort()->paginate(config('nga.paginate'));
     }
 
     /**
@@ -63,7 +63,7 @@ class ParticipantController extends Controller
         return $this->participant
             ->year($year)
             ->whereIn('id', $request->participantIds)
-            ->orderBy('restaurant_id', 'asc')
+            ->sort()
             ->paginate(config('nga.paginate'))
             ->appends($request->all());
     }

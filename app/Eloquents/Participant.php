@@ -128,6 +128,21 @@ class Participant extends Model
     }
 
     /**
+     * 参加店舗取得順をエリア順→店舗ID順に変更
+     * @param Builder $builder
+     * @return Builder
+     */
+    public function scopeSort(Builder $builder): Builder
+    {
+        return $builder->orderBy(
+            Restaurant::select('area_id')
+                ->whereColumn('restaurant_id', 'restaurants.id')
+                ->orderBy('area_id', 'asc')
+                ->limit(1)
+        )->orderBy('restaurant_id', 'asc');
+    }
+
+    /**
      * 距離近い店を計算するSQL
      * 参考：https://qiita.com/yangci/items/dffaacf424ebeb1dd643
      * @param Builder $builder
