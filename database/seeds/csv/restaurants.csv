@@ -128,7 +128,7 @@ id,area_id,name,google_search_keyword,google_place_id,address,latitude,longitude
 127,19,食・酒・笑 にこらす,,ChIJty60Qkcoil8RUhQgTua3uW4,宮城県仙台市青葉区大手町7番20号,38.258482,140.861584,022-211-8226,http://nikoras20110123.da-te.jp/,,https://ja-jp.facebook.com/pages/category/Bar/%E9%A3%9F%E9%85%92%E7%AC%91-%E3%81%AB%E3%81%93%E3%82%89%E3%81%99-215325145266233/,https://tabelog.com/miyagi/A0401/A040101/4011238/,1,0
 128,19,和醸良酒 ○たけ,,ChIJhZtALjkoil8R45ELJkyyhtU,宮城県仙台市青葉区大町2-4-1,38.259598,140.866181,022-266-5541,http://www.sake-marutake.com/,,,https://tabelog.com/miyagi/A0401/A040101/4008245/,1,0
 129,19,にほんしゅ屋 nico シマウマ酒店,,ChIJBRLxC-tjj18RFvWUKn46uMY,宮城県仙台市青葉区一番町4-1-16,38.263482,140.872038,022-265-2188,http://www.s-faction.com/?shop=shimauma,,https://ja-jp.facebook.com/pages/category/Restaurant/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%97%E3%82%85%E5%B1%8B-%E3%82%B7%E3%83%9E%E3%82%A6%E3%83%9E%E9%85%92%E5%BA%97-nico-787496974690649/,https://tabelog.com/miyagi/A0401/A040101/4016831/,1,0
-130,19,肴処やおよろず,,ChIJk-aQ0iQoil8RwbYqdUhc1Go,宮城県仙台市青葉区一番町4丁目1-15,38.263348,140.872197,022-263-7667,https://construct-morment.com/yaoyorozu/,,,https://tabelog.com/miyagi/A0401/A040101/4011893/,1,0
+130,19,肴処 やおよろず,,ChIJk-aQ0iQoil8RwbYqdUhc1Go,宮城県仙台市青葉区一番町4丁目1-15,38.263348,140.872197,022-263-7667,https://construct-morment.com/yaoyorozu/,,,https://tabelog.com/miyagi/A0401/A040101/4011893/,1,0
 131,19,酒炭肴 さゝ木,,ChIJmQUu4Dooil8RZ4dSy5cvZ-U,宮城県仙台市青葉区国分町2丁目1-13,38.263093,140.870072,022-398-8173,,,https://ja-jp.facebook.com/pages/category/Restaurant/%E9%85%92%E7%82%AD%E8%82%B4-%E3%81%95%E3%82%9D%E6%9C%A8-487827054758938/,https://tabelog.com/miyagi/A0401/A040101/4017956/,1,0
 132,19,酒肆 番,,ChIJq6lMBSUoil8RgoAuGjK-nOk,宮城県仙台市青葉区本町2丁目15-16 UENOビル2F,38.264504,140.872966,022-266-0838,,,,https://tabelog.com/miyagi/A0401/A040101/4018692/,1,0
 133,19,George,,ChIJq9ShIqEpil8RkdxCYgZGGKo,宮城県仙台市宮城野区榴岡4丁目4-1,38.258733,140.886882,022-299-5171,,,,https://tabelog.com/miyagi/A0401/A040102/4020266/,1,0
@@ -252,7 +252,7 @@ id,area_id,name,google_search_keyword,google_place_id,address,latitude,longitude
 251,35,文禄堤 茶味,,ChIJgzEDuJ3hAGARPCyyupidZyI,,,,,,,,https://tabelog.com/osaka/A2707/A270701/27085456/,1,0
 252,35,鉄板酒場 野次馬 ,,ChIJjfDYuJ3hAGAR_-3l1KvMLsY,,,,,,,,https://tabelog.com/osaka/A2707/A270701/27092315/,1,0
 253,36,日本酒LARGO,,ChIJ___jYobcAGARlU5X8mCmEZk,,,,,,,,https://tabelog.com/osaka/A2705/A270501/27092955/,1,0
-254,36,まぐろ日本酒スタンドバル寛十郎,,,大阪府堺市堺区中瓦町2-2-6,34.575251,135.482908,090-3611-1202,,,,https://tabelog.com/osaka/A2705/A270501/27111207/,0,0
+254,36,まぐろ日本酒スタンドバル寛十郎,,,大阪府堺市堺区中瓦町2-2-6,34.575251,135.482908,090-3611-1202,,,,https://tabelog.com/osaka/A2705/A270501/27111207/,1,0
 255,36,味ごよみ淳平,,ChIJDeqrq1TdAGAR-rB5lQjW7Yw,,,,,,,https://www.facebook.com/kanjyurou/,https://tabelog.com/osaka/A2705/A270501/27104739/,1,0
 256,36,ひものと地酒のお店 彩酒,,ChIJlYHCV4XcAGARjHXWaVbo3cE,,,,,,,,https://tabelog.com/osaka/A2705/A270501/27097829/,1,0
 257,36,日本酒こころのバー,,ChIJ___TRrjbAGAR1yiThA5iEmw,,,,,,,,https://tabelog.com/osaka/A2705/A270501/27093061/,1,0
@@ -268,7 +268,7 @@ id,area_id,name,google_search_keyword,google_place_id,address,latitude,longitude
 267,3,千喜千輝,,ChIJFbg9EGzmAGARzPg-vPzkFNo,,,,,,https://twitter.com/chiki2005chiki,https://www.facebook.com/Chiki2005Chiki/,https://tabelog.com/osaka/A2701/A270108/27108632/,1,0
 268,5,靱本町がく,,ChIJk__KYfzmAGARTgap6VXYC-4,,,,,,,,https://tabelog.com/osaka/A2701/A270102/27074091/,1,0
 269,6,南たこ梅,,ChIJ52kpRhXnAGARDkjhC23Qwk4,,,,,,,,https://tabelog.com/osaka/A2701/A270202/27071160/,1,0
-270,7,日本のお酒と ゆう屋,,ChIJ92-n_avgAGARqPeG7Jg7Pys,,,,,,,,,0,0
+270,7,日本のお酒と ゆう屋,,ChIJ92-n_avgAGARqPeG7Jg7Pys,,,,,,,,,1,0
 271,7,細工谷酒類研究所,,ChIJKVfwcQbhAGARutJ_oWlatAM,,,,,,,,https://tabelog.com/osaka/A2701/A270203/27089433/,1,0
 272,37,大阪焼きとんたゆたゆ裏天王寺,たゆたゆ裏天王寺,ChIJsWjnapjdAGARks4dzVzUczQ,,,,,,,,https://tabelog.com/osaka/A2701/A270203/27106359/,1,0
 273,7,純米酒専門店 うお家 猫八,,ChIJRYeNNpHhAGARmo51p4bZIbw,,,,,,,,https://tabelog.com/osaka/A2701/A270204/27105054/,1,0
@@ -397,3 +397,39 @@ id,area_id,name,google_search_keyword,google_place_id,address,latitude,longitude
 396,8,酒舟 天,,ChIJxe4LiuOOAGARX32E8tBCWGY,,,,,,,https://ja-jp.facebook.com/pages/category/Bar/%E9%85%92%E8%88%9F-%E5%A4%A9-%E3%81%95%E3%81%95%E3%81%B6%E3%81%AD-%E3%81%A6%E3%82%93-798678343545020/,https://tabelog.com/hyogo/A2801/A280101/28043273/,1,0
 397,8,菜っぱ,,ChIJaxK6jfyOAGARh7MyMZ9hcnM,,,,,,,,https://tabelog.com/hyogo/A2801/A280102/28000684/,1,0
 398,9,お好み焼き さか田,,ChIJ32CJcf2OAGARANukphwT1Rk,,,,,,,https://ja-jp.facebook.com/pages/category/Restaurant/%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D-%E3%81%95%E3%81%8B%E7%94%B0-1825831647470426/,https://tabelog.com/hyogo/A2801/A280102/28040035/,1,0
+399,33,千鳥亭,,ChIJo5kNgAQFVzUR0Ynt2WJKaLQ,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32002933/,1,0
+400,33,尽家,,ChIJa9HFmwMFVzURAWEqI_OE8y8,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32004930/,1,0
+401,33,おまつ,,ChIJkwJw_UAFVzURR8YCBGrv1xY,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32005639/,1,0
+402,33,佐香やカラコロ店,,ChIJV-XYRgMFVzURVyNzcqUCrzg,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32002919/,1,0
+403,33,かわばた,,ChIJv6BQSAMFVzURx05c7Sh6jx8,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32002960/,1,0
+404,33,そば遊山,,ChIJpQqTTAMFVzURq8uDqWew1Sk,,,,,https://sobayuzan.com/,,,https://tabelog.com/shimane/A3201/A320101/32004521/,1,0
+405,33,利き酒いっこ,,ChIJkXTCFwMFVzURZzK08GmlyZM,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32005257/,1,0
+406,33,ありぺろ,,ChIJr__gJgMFVzURE6Qa7_MqRgI,,,,,,,https://www.facebook.com/pages/category/Restaurant/%E3%81%82%E3%82%8A%E3%81%BA%E3%82%8D-Vol1-827226964299397/,https://tabelog.com/shimane/A3201/A320101/32005775/,1,0
+407,33,森乃清夕堂,,ChIJpRJNJgMFVzURQVjhsa_4VXU,,,,,,,https://www.facebook.com/morinoseiyudo/,https://tabelog.com/shimane/A3201/A320101/32005047/,1,0
+408,33,佐香や本店,,ChIJ1cZ8KAMFVzUR8mtd9G7Ba3o,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32002717/,1,0
+409,33,まる雄,,ChIJ5Wg9vgIFVzURtEHSyJrSkrM,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32002508/,1,0
+410,33,七三,,ChIJhXoB5wIFVzURHTFbACGZTM8,,,,,,,,,1,0
+411,33,谷屋,,ChIJYz40veIEVzUREa_4Yi7GYVc,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32005033/,1,0
+412,33,松浦屋,,ChIJZ87F1fwEVzURCfFFMRGru-w,,,,,,,https://ja-jp.facebook.com/pages/category/Japanese-Restaurant/%E9%9A%A0%E3%82%8C%E9%85%92%E5%A0%B4%E6%9D%BE%E6%B5%A6%E5%B1%8B-1395299250682888/,https://tabelog.com/shimane/A3201/A320101/32005079/,1,0
+413,33,せるぽわ,,ChIJZQ4g2uIEVzURx7fJWjSK0KU,,,,,,,https://ja-jp.facebook.com/pages/category/French-Restaurant/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E9%85%92%E5%A0%B4%E3%81%9B%E3%82%8B%E3%81%BD%E3%82%8F-568382506608582/,https://tabelog.com/shimane/A3201/A320101/32004336/,1,0
+414,33,炭家,,ChIJA7NFjuIEVzURS2a9ERSpq0M,,,,,,,https://ja-jp.facebook.com/pages/category/Interest/%E6%9C%AC%E6%A0%BC%E7%82%AD%E7%81%AB%E4%B8%B2%E7%84%BC%E3%81%8D%E5%B0%82%E9%96%80%E5%BA%97-%E8%82%89%E3%83%8E%E5%8C%A0%E7%82%AD%E5%AE%B6-sumika--1056070897745794/,https://tabelog.com/shimane/A3201/A320101/32005252/,1,0
+415,33,朔屋,,ChIJrWuyh-IEVzUR4lpFJ5VMM-w,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32002500/,1,0
+416,33,誘酒庵,,ChIJpQwTbOIEVzURFpYUWCLH9oI,,,,,,,https://www.facebook.com/jizakeyushuan,https://tabelog.com/shimane/A3201/A320101/32004189/,1,0
+417,33,エスパーク,,ChIJY7noD-MEVzURC-mvojValbg,,,,,,,,https://tabelog.com/shimane/A3201/A320101/32003209/,1,0
+418,33,庵タンドール,,ChIJbw1vUuIEVzURd6EXdnEKMtU,,,,,https://www.untendre.com,https://twitter.com/un_tendre,https://www.facebook.com/untendre/,https://tabelog.com/shimane/A3201/A320101/32003697/,1,0
+419,33,串焼き内田,,ChIJf_-cMOIEVzURs6LA8-NEkIk,,,,,,,https://ja-jp.facebook.com/staminakushiyakiuchida/,https://tabelog.com/shimane/A3201/A320101/32004903/,1,0
+420,19,NONBEE NEO,,ChIJO5YGAPQpil8RbmVKEmg_nk0,,,,,https://www.nonbee.net/,,,https://tabelog.com/miyagi/A0401/A040101/4020669/,1,0
+421,19,呑み喰い処 なかぐろ,,ChIJjU2qkDwoil8Rf4hftGWHENY,,,,,https://sendai-nakaguro.com/,,,https://tabelog.com/miyagi/A0401/A040101/4008927/,1,0
+422,19,大町二代目 幸五郎,,ChIJaTznOzkoil8R15HTfYR7mGY,,,,,,,https://ja-jp.facebook.com/oomachi.nidaime.kougorou/,https://tabelog.com/miyagi/A0401/A040101/4018954/,1,0
+423,19,さかな屋 SANCO シマウマ酒店,,ChIJ-2_vuDsoil8RSV2z-QUNYAg,,,,,http://www.s-faction.com/,,,https://tabelog.com/miyagi/A0401/A040101/4018128/,1,0
+424,19,福連木,,ChIJb-R4GTooil8RTaVRWC4cGoI,,,,,,,https://ja-jp.facebook.com/pages/category/Local-Business/%E7%A6%8F%E9%80%A3%E6%9C%A8%E3%81%B5%E3%81%8F%E3%82%8C%E3%81%8E%E4%BB%99%E5%8F%B0-1319098478130624/,https://tabelog.com/miyagi/A0401/A040101/4018425/,1,0
+425,19,久遠,,ChIJ-Z3QXrspil8RRjtqYAWPAVY,,,,,,,https://www.facebook.com/%E4%BB%99%E8%87%BA%E5%92%8C%E9%A3%9F-%E4%B9%85%E9%81%A0-kuon--199808110904042,https://tabelog.com/miyagi/A0401/A040101/4021419/,1,0
+426,19,ちょうつがひ,,ChIJxSsKK0kpil8ROhBdu5uyGzw,,,,,https://cho-cho.net/,,,https://tabelog.com/miyagi/A0401/A040101/4021968/,1,0
+427,19,旬味酒好 かん,,ChIJfetBDTAoil8RrskIYp9fF2U,,,,,http://nihonshu-kan.com/,,,https://tabelog.com/miyagi/A0401/A040101/4003350/,1,0
+428,19,仙台 ume,,ChIJQa4jqbQpil8RhW5Wk0gmVD0,,,,,,,,https://tabelog.com/miyagi/A0401/A040101/4021058/,1,0
+429,19,贔屓,,ChIJNQq3_i8oil8RdZTxaGslEUs,,,,,https://hiiki.owst.jp/,,,https://tabelog.com/miyagi/A0401/A040101/4018731/ ,1,0
+430,19,中屋,,ChIJHYU7ay4oil8RnF6EASfueg8,,,,,,,https://ja-jp.facebook.com/pages/category/Restaurant/%E3%81%8A%E9%85%92%E3%81%A8%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%A8-%E4%B8%AD%E5%B1%8B-1608629286076041/,https://tabelog.com/miyagi/A0401/A040101/4016531/,1,0
+431,19,嘉肴萬菜 ○いけ,,ChIJoVpjdyUoil8RqTjmjfz4xIY,,,,,,,,https://tabelog.com/miyagi/A0401/A040101/4015207/,1,0
+432,19,つるかめ,,ChIJAb1ceiQoil8RdnLM3y2C8Ns,,,,,http://www.fujita-seisaku.co.jp/tsurukame/,,https://www.facebook.com/%E5%B1%85%E9%85%92%E5%B1%8B%E3%81%A4%E3%82%8B%E3%81%8B%E3%82%81-512043415518895/,https://tabelog.com/miyagi/A0401/A040101/4003304/,1,0
+433,19,食堂 やまき,,ChIJ___78iUoil8Rdl__15PWg0c,,,,,,,https://www.facebook.com/%E3%82%84%E3%81%BE%E3%81%8D-1959903087572928/,https://tabelog.com/miyagi/A0401/A040101/4020177/,1,0
+434,19,小枝,,ChIJWwmXhWgpil8Rgv6XUHaD6YA,,,,,,,https://www.facebook.com/koeeeda1985/,https://tabelog.com/miyagi/A0401/A040101/4022186/,1,0
